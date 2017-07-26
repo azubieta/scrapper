@@ -13,7 +13,7 @@ class VirginStoresSpider(scrapy.Spider):
         """Generate url to star scrapping based on the zip codes
             by example: http://stores.virginmobileusa.com/cgi-bin/search.pl?zipcode=92656&phones=Yes&topup=No&b2g=No&iph=No&page=2
         """
-        with requests.get("https://raw.githubusercontent.com/azubieta/scrapper/master/us_postal_codes_reduced.csv") as zipcodes_file:
+        with open('', 'r') as zipcodes_file:
             for line in zipcodes_file:
                 line = line.split(',')
                 try:
