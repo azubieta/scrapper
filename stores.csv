@@ -1,0 +1,916 @@
+store_name,state,product_topup_card,address,product_phone,product_broadband2go,city,phone,zipcode
+Kmart,NY,True,2280 North Ocean Avenue,True,False,"Farmingville,",(631) 732-1725,11738
+AHA Wireless,NY,True,771 Horseblock Road,True,False,"Farmingville,",(631) 496-9099,11738
+We Fix Phones Inc,NY,True,700 Patchogue Yaphank rd,True,False,"Medford,",not found,11763
+GEE ESS Wireless,NY,True,350 East Main St Suite 21,True,False,"Patchogue,",(631) 569-4417,11772
+Envios Mundial Corp,NY,True,300 West Main Street,True,False,"Patchogue,",(631) 627-2750,11772
+Best Buy,NY,True,499 N Service Rd Suite 39,True,False,"Patchogue,",(631) 475-6269,11772
+67 Wireless,NY,True,1761A Route 112,True,False,"Medford,",(631) 475-6767,11763
+T&T Fiber Services,NY,True,1070 Middle Country Rd,True,False,"Selden,",(631) 320-3565,11784
+Phone House 2,NY,True,240 East Main Street.,True,False,"Patchogue,",(631) 475-6701,11772
+mWorks of Selden,NY,True,708 Middle Country Rd Ste A,True,True,"Selden,",not found,11784
+Target,NY,True,2975 Horseblock Rd,True,False,"Medford,",(631) 286-0287,11763
+Best Buy,NY,True,261 Pond Path,True,False,"Centereach,",(631) 737-1632,11720
+Tech Central,NY,True,50 I Middle Country Rd,True,False,"Coram,",(631) 946-6700,11727
+Target,NY,True,265 Pond Path,True,False,"Centereach,",(631) 580-5356,11720
+ATF Wireless,NY,True,2229 Route 112,True,False,"Coram,",not found,11727
+Glory Wireless Inc.,MA,True,587 Main St,True,False,"Springfield,",(413) 747-3980,01105
+Dexom Wireless,MA,True,380 Dickinson St,True,False,"Springfield,",(413) 263-6608,01108
+SIS Group Inc,MA,True,1228 Main St,True,False,"Springfield,",(413) 285-7297,01103
+Zona Mobile,MA,True,385 Belmont Ave,True,False,"Springfield,",(413) 301-5440,01108
+Mundo Mobile,MA,True,856 Main Street,True,False,"Springfield,",(413) 205-8514,01103
+Main Connection,MA,True,2670 Main Street,True,False,"Springfield,",(413) 732-5181,01107
+Wireless Solutions Of New England,MA,True,242 Memorial Ave,True,False,"West Springfield,",(413) 732-7786,01089
+Kenny Tax Service,MA,True,510 Armory St,True,False,"Springfield,",(413) 214-6136,01104
+Santana Tax Service,MA,True,882 State St,True,False,"Springfield,",(413) 886-0099,01109
+Kmart,MA,True,1277 Liberty St,True,False,"Springfield,",(413) 737-9122,01104
+Master Wireless - St James,MA,True,19 St James Ave,True,False,"Springfield,",(267) 639-9319,01109
+Best Buy,CT,True,95 Elm St,True,False,"Enfield,",(860) 741-2002,06082
+Target,CT,True,90 Elm St,True,False,"Enfield,",(860) 741-2676,06082
+Main Connections,MA,True,203A Exchange Street,True,False,"Chicopee,",(413) 331-3010,01013
+Wal-Mart,MA,True,591 Memorial Dr,True,False,"Chicopee,",(413) 593-3192,01020
+AIT Communications,NY,True,2359 Middle Country Road,True,False,"Centereach,",(631) 467-0707,11720
+Digimobile,NY,True,401 Hawkins Ave Suite 6,True,False,"Ronkonkoma,",(631) 619-6511,11779
+Moriah Multi-Services,NY,True,14 Dawn Dr,True,False,"Centereach,",(631) 676-5487,11720
+Mobility Center INC,NY,True,203 Centereach Mall,True,False,"Centereach,",(631) 738-1414,11720
+Quick-Fix Screens Inc,NY,True,4615 Sunrise Highway,True,False,"Bohemia,",(631) 800-6600,11716
+Target,NY,True,5750 Sunrise Hwy,True,False,"Sayville,",not found,11782
+Kmart,NY,True,5151 Sunrise Highway,True,False,"Bohemia,",(631) 567-3060,11716
+Holla Dollar Wireless,NY,True,1566 Montauk Hwy,True,False,"Bellport,",(631) 286-0767,11713
+Tech Central,NY,True,835 Middle Country Road,True,False,"Middle Island,",(631) 775-6918,11953
+Wal-Mart,NY,True,1850 VETERANS HWY,True,False,"Islandia,",(631) 851-0468,11749
+Wal-Mart,NY,True,750 MIDDLE COUNTRY RD,True,False,"Middle Island,",(631) 924-0081,11953
+Tech Central #3,NY,True,23 Chereb Lane,True,False,"Port Jefferson Station,",(631) 252-0687,11776
+Target,NY,True,160 N Research Pl,True,False,"Central Islip,",(631) 297-2011,11722
+Wireless Shack,NY,True,1058 Motor Parkway,True,False,"Central Islip,",(631) 778-6644,11722
+Game On,NY,True,26 Wheeler Rd,True,False,"Central Islip,",(631) 761-6225,11722
+Bins Wireless Inc,MA,True,1655 Boston Road,True,False,"Springfield,",(413) 285-8241,01129
+Target,MA,True,50 Holyoke Street,True,False,"Holyoke,",(413) 532-0240,01041
+Wal-Mart,MA,True,141 SPRINGFIELD RD,True,False,"Westfield,",(413) 572-0400,01085
+Wireless Accessories,MA,True,50 Holyoke Street,True,False,"Holyoke,",(203) 947-1724,01040
+Kmart,MA,True,2203 N Hampton St,True,False,"Holyoke,",(413) 538-7655,01040
+Best Buy,MA,True,50 Holyoke St Space E106,True,False,"Holyoke,",(413) 535-2070,01040
+Wal-Mart,CT,True,44 Prospect Hill Road,True,False,"East Windsor,",(860) 292-1235,06088
+Sonido Musical,MA,True,331 High St.,True,False,"Holyoke,",(413) 315-6349,01040
+Best Buy,MA,True,50 Holyoke St Space B216,True,False,"Holyoke,",(413) 533-4443,01040
+Target,CT,True,1075 Kennedy Rd,True,False,"Windsor,",(860) 907-3068,06095
+Ace's Wireless,CT,True,415 Cottage Grove,True,False,"Bloomfield,",(860) 263-7007,06002
+EZ Superstore,CT,True,575D Talcottville Rd,True,False,"Vernon Rockville,",(860) 207-8249,06066
+Kmart,CT,True,295 Hartford Turnpike,True,False,"Vernon Rockville,",(860) 872-8391,06066
+AZ Wireless,CT,True,35 W MAIN ST UNIT 2,True,False,"Vernon Rockville,",(860) 875-1180,06066
+Ace's Wireless,CT,True,690b Albany Avenue,True,False,"Hartford,",(860) 246-5100,06112
+Ludali Communications,NY,True,69 Carleton Ave,True,False,"Central Islip,",(631) 761-6767,11722
+Mobility Center INC,NY,True,70 W Suffolk Ave,True,False,"Central Islip,",(671) 778-6024,11722
+AHA Wireless,NY,True,49 Surrey Circle,True,False,"Shirley,",(631) 399-0929,11967
+Tele-Mundo Communications & Services III Inc.,NY,True,1130E Suffolk Ave,True,False,"Brentwood,",(631) 873-4163,11717
+Wireless Shack II,NY,True,32 1st Avenue,True,False,"Brentwood,",(631) 245-6902,11717
+Shan Wireless Inc.,NY,True,122 Heyward St,True,False,"Brentwood,",(631) 922-8526,11717
+Prime Wireless,NY,True,1048 D Islip Avenue,True,False,"Brentwood,",(631) 388-5757,11717
+Tele-Mundo Communications,NY,True,1784 5TH AVE UNIT C,True,False,"Bay Shore,",(631) 231-2929,11706
+Celulares 5 Estrellas,NY,True,1564 Brentwood Road,True,False,"Bay Shore,",(631) 636-3960,11706
+Target,NY,True,4 Henry St,True,False,"Commack,",(631) 462-5507,11725
+Alam Communications Inc.,NY,True,28 Bay Shore Rd,True,False,"Bay Shore,",(631) 522-1770,11706
+JAV Wireless,NY,True,61 Pine Aire Dr Ste C,True,False,"Bay Shore,",(631) 873-4181,11706
+Target,NY,True,98 Veterans Memorial Highway,True,False,"Commack,",(631) 462-8969,11725
+Wal-Mart,NY,True,85 Crooked Hill Rd,True,False,"Commack,",(631) 864-0806,11725
+Target,NY,True,838 Sunrise Hwy,True,False,"Bay Shore,",(631) 969-8958,11706
+Wal-Mart,CT,True,420 Buckland Hills Dr,True,False,"Manchester,",(860) 644-5100,06042
+Wal-Mart,MA,True,180 N KING ST,True,False,"Northampton,",(413) 587-0001,01060
+Nay's Wireless Center,CT,True,3155 Main Street,True,False,"Hartford,",(860) 727-0092,06120
+Ace's Wireless,CT,True,2279 Main St,True,False,"Hartford,",(860) 206-1855,06120
+Ace's Wireless,CT,True,1291 Albany Ave,True,False,"Hartford,",(860) 560-7669,06112
+Best Buy,CT,True,194 Buckland Hills Dr Ste 1022,True,False,"Manchester,",(860) 648-9525,06042
+Ace's Wireless,CT,True,194 Buckland Hills Drive Suite 2500 Kiosk - 6502,True,False,"Manchester,",(860) 644-1967,06042
+Best Buy,CT,True,44A Albany Tpke,True,False,"West Simsbury,",(860) 651-2359,06092
+Oshane's Wireless and Billing Center LLC,CT,True,672 Blue Hills Ave,True,False,"Hartford,",(860) 481-5021,06112
+Kmart,MA,True,Wilbraham Road,True,False,"Palmer,",(413) 283-7635,01069
+Hitech Wireless Communications,CT,True,579 Burnside Ave,True,False,"East Hartford,",(860) 289-7229,06108
+Best Buy,NY,True,1851 Sunrise Hwy,True,False,"Bay Shore,",(631) 969-8740,11706
+Phone House,NY,True,408 Main St,True,False,"Center Moriches,",(631) 878-6707,11934
+Wireless Tec Solutions Inc,NY,True,1840A Deer Park Ave,True,False,"Deer Park,",(631) 600-3337,11729
+Best Buy,NY,True,3124 Jericho Tpke,True,False,"East Northport,",(631) 462-1256,11731
+CBC Wireless Inc,NY,True,475 Grand Blvd,True,False,"Deer Park,",(631) 243-5520,11729
+Larkfield Multicellular,NY,True,250A Larkfield Road,True,False,"East Northport,",(631) 978-6395,11731
+WIRELESS SHACK,NY,True,1167 DEER PARK AVE,True,False,"North Babylon,",(631) 667-4800,11703
+Mobility Center INC,NY,True,705A Old Country Rd,True,False,"Huntington Station,",(631) 824-6644,11746
+Target,NY,True,124 E JERICHO TPKE,True,False,"Huntington Station,",(631) 760-3271,11746
+Best Buy,NY,True,148 Walt Whitman Rd,True,False,"Huntington Station,",(631) 427-5161,11746
+J&TA Communications,NY,True,1433 New York Avenue,True,False,"Huntington Station,",(631) 223-2727,11746
+Jiminez Communication,NY,True,1579 New York Avenue,True,False,"Huntington Station,",(631) 673-6000,11746
+South Shore Comm Inc,NY,True,1022 Little E. Neck Rd,True,False,"West Babylon,",(631) 669-4646,11704
+Computer Business,NY,True,327 Merritt Avenue,True,False,"Wyandanch,",(631) 643-5520,11798
+Be In Touch Wireless,NY,True,70 Route 109,True,False,"West Babylon,",(631) 539-8210,11704
+Target,MA,True,367 Russell St,True,False,"Hadley,",(413) 586-5945,01035
+Wal-Mart,MA,True,337 Russell St,True,False,"Hadley,",(413) 586-4231,01035
+Wal-Mart,MA,True,180 N KING ST,True,False,"Northampton,",(413) 587-0001,01060
+Kmart,MA,True,2203 N Hampton St,True,False,"Holyoke,",(413) 538-7655,01040
+Wireless Accessories,MA,True,50 Holyoke Street,True,False,"Holyoke,",(203) 947-1724,01040
+Best Buy,MA,True,50 Holyoke St Space B216,True,False,"Holyoke,",(413) 533-4443,01040
+Wal-Mart,MA,True,591 Memorial Dr,True,False,"Chicopee,",(413) 593-3192,01020
+Target,MA,True,50 Holyoke Street,True,False,"Holyoke,",(413) 532-0240,01041
+Best Buy,MA,True,50 Holyoke St Space E106,True,False,"Holyoke,",(413) 535-2070,01040
+Sonido Musical,MA,True,331 High St.,True,False,"Holyoke,",(413) 315-6349,01040
+Main Connections,MA,True,203A Exchange Street,True,False,"Chicopee,",(413) 331-3010,01013
+Kmart,MA,True,Wilbraham Road,True,False,"Palmer,",(413) 283-7635,01069
+Kenny Tax Service,MA,True,510 Armory St,True,False,"Springfield,",(413) 214-6136,01104
+Bins Wireless Inc,MA,True,1655 Boston Road,True,False,"Springfield,",(413) 285-8241,01129
+Kmart,MA,True,1277 Liberty St,True,False,"Springfield,",(413) 737-9122,01104
+Kmart,NY,True,1000 Montauk Highway,True,False,"West Babylon,",(631) 661-1234,11704
+Premier Wireless of Queens,NY,True,1845 Straight Path,True,False,"Lindenhurst,",(631) 225-7724,11757
+BRW Electronics,MA,True,255 Mohawk Trail,True,False,"Greenfield,",(413) 773-7285,01301
+Santana Tax Service,MA,True,882 State St,True,False,"Springfield,",(413) 886-0099,01109
+Wal-Mart,MA,True,555 E Main St,True,False,"Orange,",(978) 544-5800,01364
+Master Wireless - St James,MA,True,19 St James Ave,True,False,"Springfield,",(267) 639-9319,01109
+Main Connection,MA,True,2670 Main Street,True,False,"Springfield,",(413) 732-5181,01107
+SIS Group Inc,MA,True,1228 Main St,True,False,"Springfield,",(413) 285-7297,01103
+Wireless Solutions Of New England,MA,True,242 Memorial Ave,True,False,"West Springfield,",(413) 732-7786,01089
+Mundo Mobile,MA,True,856 Main Street,True,False,"Springfield,",(413) 205-8514,01103
+Kmart,MA,True,Wilbraham Road,True,False,"Palmer,",(413) 283-7635,01069
+Smoke Signals LLC,MA,True,14 Hamilton Street,True,False,"Southbridge,",(508) 909-6851,01550
+Bins Wireless Inc,MA,True,1655 Boston Road,True,False,"Springfield,",(413) 285-8241,01129
+Wal-Mart,MA,True,742 MAIN ST,True,False,"North Oxford,",(508) 987-1444,01537
+Wal-Mart,MA,True,20 Soojian Dr,True,False,"Leicester,",(508) 892-9461,01524
+Insation Technologies,MA,True,31B Thompson Road,True,False,"Webster,",(508) 422-0477,01570
+Kmart,MA,True,70 Worcester Road,True,False,"Webster,",(508) 943-9540,01570
+Santana Tax Service,MA,True,882 State St,True,False,"Springfield,",(413) 886-0099,01109
+Best Buy,MA,True,385 Southbridge Street,True,False,"Auburn,",(508) 832-3203,01501
+Master Wireless - St James,MA,True,19 St James Ave,True,False,"Springfield,",(267) 639-9319,01109
+Wal-Mart,MA,True,591 Memorial Dr,True,False,"Chicopee,",(413) 593-3192,01020
+Kenny Tax Service,MA,True,510 Armory St,True,False,"Springfield,",(413) 214-6136,01104
+Dexom Wireless,MA,True,380 Dickinson St,True,False,"Springfield,",(413) 263-6608,01108
+Zona Mobile,MA,True,385 Belmont Ave,True,False,"Springfield,",(413) 301-5440,01108
+Randell Check Cashing,MA,True,100 Canterbury Street,True,False,"Worcester,",(508) 373-2141,01603
+Wal-Mart,MA,True,141 SPRINGFIELD RD,True,False,"Westfield,",(413) 572-0400,01085
+Wireless Accessories,MA,True,50 Holyoke Street,True,False,"Holyoke,",(203) 947-1724,01040
+Sonido Musical,MA,True,331 High St.,True,False,"Holyoke,",(413) 315-6349,01040
+Best Buy,MA,True,50 Holyoke St Space E106,True,False,"Holyoke,",(413) 535-2070,01040
+Best Buy,MA,True,50 Holyoke St Space B216,True,False,"Holyoke,",(413) 533-4443,01040
+Kmart,MA,True,2203 N Hampton St,True,False,"Holyoke,",(413) 538-7655,01040
+Main Connections,MA,True,375 North St.,True,False,"Pittsfield,",(413) 464-8519,01201
+Wal-Mart,MA,True,180 N KING ST,True,False,"Northampton,",(413) 587-0001,01060
+Kmart,MA,True,1277 Liberty St,True,False,"Springfield,",(413) 737-9122,01104
+Worcester Bling Bling,MA,True,91 Stafford St.,True,False,"Worcester,",(508) 753-8494,01603
+Wal-Mart,MA,True,20 Soojian Dr,True,False,"Leicester,",(508) 892-9461,01524
+Appdroid Wireless,MA,True,317 Pleasant Street,True,False,"Worcester,",(774) 823-3583,01609
+Best Buy,MA,True,7 Neponset St,True,False,"Worcester,",(508) 852-1800,01606
+Worcester Bling Bling,MA,True,91 Stafford St.,True,False,"Worcester,",(508) 753-8494,01603
+Wal-Mart,MA,True,137 W Boylston St,True,False,"West Boylston,",(508) 835-1101,01583
+New England Wireless,MA,True,645 West Boylston Street,True,False,"Worcester,",(914) 555-5555,01606
+Kmart,MA,True,Wilbraham Road,True,False,"Palmer,",(413) 283-7635,01069
+Audisee Electronics,MA,True,1600 South Main St,True,False,"Athol,",(978) 249-7100,01331
+Randell Check Cashing,MA,True,100 Canterbury Street,True,False,"Worcester,",(508) 373-2141,01603
+Bolivio's Express Communications,MA,True,237 Lincoln Street,True,False,"Worcester,",(508) 755-4095,01605
+G & M Groceries,MA,True,504 Cambridge St,True,False,"Worcester,",(508) 757-9940,01610
+Roaming Wireless,MA,True,111 Millbury Street,True,False,"Worcester,",(508) 791-7626,01610
+Target,MA,True,529 Lincoln St,True,False,"Worcester,",(508) 852-3094,01605
+Mobile Max,MA,True,30 Front Street,True,False,"Worcester,",(508) 798-3939,01608
+Best Buy,MA,True,385 Southbridge Street,True,False,"Auburn,",(508) 832-3203,01501
+Target,MA,True,655 Cheshire Rd,True,False,"Lanesboro,",(413) 236-4210,01237
+Main Connections,MA,True,375 North St.,True,False,"Pittsfield,",(413) 464-8519,01201
+Kmart,VT,True,19 Kocher Drive,True,False,"Bennington,",(802) 442-6305,05201
+Wal-Mart,MA,True,742 MAIN ST,True,False,"North Oxford,",(508) 987-1444,01537
+Wal-Mart,MA,True,555 E Main St,True,False,"Orange,",(978) 544-5800,01364
+Wal-Mart,MA,True,25 Tobias Boland Way,True,False,"Worcester,",(774) 314-3157,01607
+Wal-Mart,MA,True,11 JUNGLE RD,True,False,"Leominster,",(978) 466-1313,01453
+Target,MA,True,86 Orchard Hill Park Dr,True,False,"Leominster,",(978) 534-2914,01453
+Miro Inc,MA,True,285 Central St unit 107,True,False,"Leominster,",(978) 798-1236,01453
+Best Buy,MA,True,33 Orchard Hill Park Dr,True,False,"Leominster,",(978) 537-9042,01453
+Torrington Wireless,CT,True,502 Main Street,True,False,"Winsted,",(860) 238-7719,06098
+Torrington Wireless,CT,True,246 N Elm Street,True,False,"Torrington,",(860) 489-3740,06790
+Target,CT,True,1922 E Main St,True,False,"Torrington,",(860) 618-4007,06790
+Wal-Mart,CT,True,970 TORRINGFORD ST,True,False,"Torrington,",(860) 496-8653,06790
+Torrington Mobile,CT,True,268 Main St,True,False,"Torrington,",(860) 201-4749,06790
+Main Connections,MA,True,375 North St.,True,False,"Pittsfield,",(413) 464-8519,01201
+Target,MA,True,655 Cheshire Rd,True,False,"Lanesboro,",(413) 236-4210,01237
+BRW Electronics,MA,True,255 Mohawk Trail,True,False,"Greenfield,",(413) 773-7285,01301
+BRW Electronics,VT,True,972 Putney Rd.,True,False,"Brattleboro,",(802) 257-5229,05301
+Wal-Mart,MA,True,555 E Main St,True,False,"Orange,",(978) 544-5800,01364
+Audisee Electronics,MA,True,1600 South Main St,True,False,"Athol,",(978) 249-7100,01331
+Wal-Mart,MA,True,555 E Main St,True,False,"Orange,",(978) 544-5800,01364
+Kmart,MA,True,140 Whalon St,True,False,"Fitchburg,",(978) 345-7362,01420
+NY Bling Bling,MA,True,363 John Fitch Hwy.,True,False,"Fitchburg,",(978) 343-4500,01420
+Wal-Mart,MA,True,301 Massachusetts Ave,True,False,"Lunenburg,",(978) 582-6000,01462
+Miro Inc,MA,True,285 Central St unit 107,True,False,"Leominster,",(978) 798-1236,01453
+Wal-Mart,MA,True,11 JUNGLE RD,True,False,"Leominster,",(978) 466-1313,01453
+Target,MA,True,86 Orchard Hill Park Dr,True,False,"Leominster,",(978) 534-2914,01453
+Best Buy,MA,True,33 Orchard Hill Park Dr,True,False,"Leominster,",(978) 537-9042,01453
+Wal-Mart,MA,True,137 W Boylston St,True,False,"West Boylston,",(508) 835-1101,01583
+Best Buy,NH,True,220 Daniel Webster Hwy,True,False,"Nashua,",(603) 891-4900,03062
+Audisee Electronics,MA,True,1600 South Main St,True,False,"Athol,",(978) 249-7100,01331
+Best Buy,MA,True,7 Neponset St,True,False,"Worcester,",(508) 852-1800,01606
+New England Wireless,MA,True,645 West Boylston Street,True,False,"Worcester,",(914) 555-5555,01606
+Target,NH,True,600 Amherst St,True,False,"Nashua,",(603) 324-0039,03063
+Amazing Mobile,RI,True,1096 Social St,True,False,"Woonsocket,",(401) 597-0566,02895
+401 Wireless,RI,True,118 Main Street,True,False,"Woonsocket,",(401) 356-4811,02895
+North Main Wireless,RI,True,69 North Main St,True,False,"Woonsocket,",(401) 765-0715,02895
+New Wireless 2 Inc.,RI,True,1087 Park Ave,True,False,"Woonsocket,",(401) 356-0004,02895
+Wal-Mart,MA,True,250 Hartford Ave,True,False,"Bellingham,",(508) 966-7633,02019
+Wal-Mart,RI,True,7 Dowling Village Blvd,True,False,"North Smithfield,",(401) 766-1961,02896
+Target,MA,True,250 Fortune Blvd.,True,False,"Milford,",(508) 478-5880,01757
+Best Buy,MA,True,208 Fortune Blvd,True,False,"Milford,",(508) 634-2291,01757
+Wal-Mart,MA,True,100 Valley Pkwy,True,False,"Whitinsville,",(508) 234-9034,01588
+Best Services JC Inc,RI,True,232 Broad Street,True,False,"Cumberland,",(401) 729-6074,02864
+Unienvios MA,MA,True,124 Main St,True,False,"Milford,",(774) 287-0202,01757
+Target,RI,True,371 Putnam Pike Ste A-250,True,False,"Smithfield,",(401) 232-1699,02917
+Advanced Mobile Solutions,RI,True,616 George Washington Hwy,True,True,"Lincoln,",(401) 335-3600,02865
+Target,RI,True,620 George Washington Hwy,True,False,"Lincoln,",(401) 642-0080,02865
+Target,MA,True,91 Taunton St,True,False,"Plainville,",(508) 643-5008,02762
+Wal-Mart,MA,True,200 Otis St,True,False,"Northborough,",(508) 393-4385,01532
+Target,MA,True,330 Turnpike Rd,True,False,"Westborough,",(508) 366-1426,01581
+Everything Cellular,MA,True,147 Main St,True,False,"Marlborough,",(508) 303-0835,01752
+Target,MA,True,605 Boston Post Rd East,True,False,"Marlborough,",(508) 251-6957,01752
+Best Buy,MA,True,601 Donald Lynch Blvd,True,False,"Marlborough,",(508) 460-0232,01752
+Best Buy,MA,True,769 Donald Lynch Blvd,True,False,"Marlborough,",(508) 486-9430,01752
+Target,MA,True,423 Donald Lynch Blvd,True,False,"Marlborough,",(508) 573-1004,01752
+Wal-Mart,MA,True,280 Washington St,True,False,"Hudson,",(978) 568-3383,01749
+Target,MA,True,529 Lincoln St,True,False,"Worcester,",(508) 852-3094,01605
+Bolivio's Express Communications,MA,True,237 Lincoln Street,True,False,"Worcester,",(508) 755-4095,01605
+Wal-Mart,MA,True,137 W Boylston St,True,False,"West Boylston,",(508) 835-1101,01583
+New England Wireless,MA,True,645 West Boylston Street,True,False,"Worcester,",(914) 555-5555,01606
+Best Buy,MA,True,7 Neponset St,True,False,"Worcester,",(508) 852-1800,01606
+Mobile Max,MA,True,30 Front Street,True,False,"Worcester,",(508) 798-3939,01608
+G & M Groceries,MA,True,504 Cambridge St,True,False,"Worcester,",(508) 757-9940,01610
+Target,MA,True,1205 South Washington St.,True,False,"North Attleboro,",(508) 699-9118,02760
+Wal-Mart,MA,True,1470 S WASHINGTON ST,True,False,"North Attleboro,",(508) 699-0277,02760
+Best Buy,MA,True,1337 S Washington St Route 1,True,False,"North Attleboro,",(508) 699-5800,02760
+Best Buy,MA,True,999 S Washington St,True,False,"North Attleboro,",(508) 699-9001,02760
+Migz Wireless Central Falls,RI,True,747 Broad St,True,False,"Central Falls,",(401) 475-6944,02863
+Lauritas Video & Varieties,RI,True,881 Broad Street,True,False,"Central Falls,",(401) 722-5454,02863
+The Electronics Market Inc.,RI,True,582 Dexter St,True,False,"Central Falls,",(401) 305-3303,02863
+Smart Cellular,RI,True,1052 Charles St,True,False,"Providence,",(401) 722-1618,02904
+Wal-Mart,RI,True,51 SILVER SPRING ST,True,False,"Providence,",(401) 272-5047,02904
+Preferred Wireless Consultants,RI,True,704 Broadway,True,False,"Pawtucket,",(401) 475-0943,02860
+TeleService,RI,True,1103 Chalkstone Ave,True,False,"Providence,",(401) 331-0270,02908
+Telebeepers Dexter,RI,True,21 Dexter St,True,False,"Pawtucket,",(401) 727-0060,02860
+Telebeepers 941 Providence,RI,True,941 Chalkstone Ave,True,False,"Providence,",(401) 727-0060,02908
+Nation Cellnet,RI,True,363 Smithfield Avenue,True,False,"Pawtucket,",(401) 305-7655,02860
+Company 4Zero1,RI,True,570 Douglas Avenue,True,False,"Providence,",(401) 228-8934,02908
+Wal-Mart,MA,True,25 Tobias Boland Way,True,False,"Worcester,",(774) 314-3157,01607
+Roaming Wireless,MA,True,111 Millbury Street,True,False,"Worcester,",(508) 791-7626,01610
+Appdroid Wireless,MA,True,317 Pleasant Street,True,False,"Worcester,",(774) 823-3583,01609
+Best Buy,MA,True,1 Worcester Rd,True,False,"Framingham,",(508) 872-2223,01701
+Target,MA,True,400 Cochituate Road,True,False,"Framingham,",(508) 628-3136,01701
+Randell Check Cashing,MA,True,100 Canterbury Street,True,False,"Worcester,",(508) 373-2141,01603
+Best Buy,MA,True,70 Worcester Providence Tpke,True,False,"Millbury,",(508) 421-9149,01527
+Worcester Bling Bling,MA,True,91 Stafford St.,True,False,"Worcester,",(508) 753-8494,01603
+Power Mobile,MA,True,169 Concord St,True,False,"Framingham,",(508) 309-7559,01702
+Target,MA,True,1 Gagliardi Way Ste A,True,False,"Millbury,",(508) 865-3116,01527
+Power Mobile USA,MA,True,37 Hollis St,True,False,"Framingham,",(508) 872-7999,01702
+Target,MA,True,250 Fortune Blvd.,True,False,"Milford,",(508) 478-5880,01757
+Best Buy,MA,True,385 Southbridge Street,True,False,"Auburn,",(508) 832-3203,01501
+Best Buy,MA,True,208 Fortune Blvd,True,False,"Milford,",(508) 634-2291,01757
+Wal-Mart,MA,True,100 Valley Pkwy,True,False,"Whitinsville,",(508) 234-9034,01588
+Kmart,MA,True,1130 Newport Ave,True,False,"Attleboro,",(508) 761-4770,02703
+PC-Tech,RI,True,901 Main St,True,False,"Pawtucket,",(401) 475-4775,02860
+Target,MA,True,1 Gagliardi Way Ste A,True,False,"Millbury,",(508) 865-3116,01527
+Kmart,MA,True,70 Worcester Road,True,False,"Webster,",(508) 943-9540,01570
+Insation Technologies,MA,True,31B Thompson Road,True,False,"Webster,",(508) 422-0477,01570
+Best Buy,MA,True,70 Worcester Providence Tpke,True,False,"Millbury,",(508) 421-9149,01527
+Target,MA,True,330 Turnpike Rd,True,False,"Westborough,",(508) 366-1426,01581
+Wal-Mart,MA,True,550 Providence Hwy,True,False,"Walpole,",(508) 668-4144,02081
+Mega Wireless,RI,True,308 Union Ave,True,False,"Providence,",(401) 270-2827,02909
+MJS Express Inc.,RI,True,292 Manton Ave,True,False,"Providence,",(401) 270-4948,02909
+Best Buy,MA,True,280 School St,True,False,"Mansfield,",(508) 261-2340,02048
+Mundo Wireless RI,RI,True,319 Pocasset ave,True,False,"Providence,",(401) 274-5400,02909
+Miguelangelo Studio & Wireless,RI,True,1920 Westminster St,True,False,"Providence,",(401) 861-2016,02909
+Zone Multi Service,RI,True,283 Plainfield St,True,False,"Providence,",(401) 383-7366,02909
+RI Wireless,RI,True,243 Webster Ave,True,False,"Providence,",(401) 270-2248,02909
+Unienvios MA,MA,True,124 Main St,True,False,"Milford,",(774) 287-0202,01757
+Wal-Mart,MA,True,20 Soojian Dr,True,False,"Leicester,",(508) 892-9461,01524
+Kmart,MA,True,252 Main St,True,False,"Acton,",(978) 263-7756,01720
+Target,MA,True,86 Orchard Hill Park Dr,True,False,"Leominster,",(978) 534-2914,01453
+Best Buy,MA,True,33 Orchard Hill Park Dr,True,False,"Leominster,",(978) 537-9042,01453
+Wal-Mart,MA,True,11 JUNGLE RD,True,False,"Leominster,",(978) 466-1313,01453
+Miro Inc,MA,True,285 Central St unit 107,True,False,"Leominster,",(978) 798-1236,01453
+Wal-Mart,MA,True,742 MAIN ST,True,False,"North Oxford,",(508) 987-1444,01537
+Wal-Mart,MA,True,301 Massachusetts Ave,True,False,"Lunenburg,",(978) 582-6000,01462
+Wal-Mart,MA,True,250 Hartford Ave,True,False,"Bellingham,",(508) 966-7633,02019
+Primetime Providence,RI,True,500 Broad St,True,False,"Providence,",(401) 272-7022,02907
+Providence Multiservice,RI,True,1188 Elmwood Ave,True,False,"Providence,",(401) 837-2626,02907
+JR Electronics,RI,True,516 Cranston Street,True,False,"Providence,",(401) 453-5300,02907
+Power Mobile USA,MA,True,37 Hollis St,True,False,"Framingham,",(508) 872-7999,01702
+Power Mobile,MA,True,169 Concord St,True,False,"Framingham,",(508) 309-7559,01702
+Primetime,RI,True,748 Cranston St,True,False,"Providence,",(401) 443-2619,02907
+Target,MA,True,79 Commerce Way,True,False,"Seekonk,",(508) 336-1117,02771
+Expert Wireless RI,RI,True,510 Prairie Ave,True,False,"Providence,",(401) 285-6050,02905
+Wal-Mart,MA,True,25 Tobias Boland Way,True,False,"Worcester,",(774) 314-3157,01607
+Wal-Mart,MA,True,1180 Fall River Ave,True,False,"Seekonk,",(508) 336-0290,02771
+Primetime,RI,True,1380 Broad St,True,False,"Providence,",(401) 572-3029,02905
+Best Buy,MA,True,41 Commerce Way,True,False,"Seekonk,",(508) 336-1391,02771
+Prime Time EP,RI,True,912 Broadway,True,False,"East Providence,",(401) 435-8050,02914
+Best Buy,MA,True,385 Southbridge Street,True,False,"Auburn,",(508) 832-3203,01501
+Kmart,RI,True,296 Garfield Avenue,True,False,"Cranston,",(401) 946-3400,02920
+Best Buy,MA,True,84 Middlesex Tpke,True,False,"Burlington,",(781) 238-8149,01803
+Kmart,MA,True,484 Boston Rd,True,False,"Billerica,",(978) 667-4176,01821
+Target,MA,True,101 Commerce Way,True,False,"Woburn,",(781) 904-0002,01801
+Target,MA,True,210 Ballardvale St,True,False,"Wilmington,",not found,01887
+Wal-Mart,MA,True,66 PARKHURST RD,True,False,"Chelmsford,",(978) 459-1818,01824
+Moody Multi Service,MA,True,485 Moody St,True,False,"Waltham,",(781) 893-0900,02453
+Kmart,MA,True,10 Main St,True,False,"Tewksbury,",(978) 851-9666,01876
+Kmart,MA,True,252 Main St,True,False,"Acton,",(978) 263-7756,01720
+Wal-Mart,MA,True,333 Main St,True,False,"Tewksbury,",(978) 851-6265,01876
+Metro Wireless,MA,True,376 Merrimack St,True,False,"Lowell,",(978) 703-1032,01852
+Connection Wireless,MA,True,259 South St,True,False,"Lowell,",(978) 677-7280,01852
+Target,MA,True,181 Plain St,True,False,"Lowell,",not found,01852
+Magic Wireless,MA,True,32A Branch St,True,False,"Lowell,",(978) 674-8181,01851
+Lico Wireless,MA,True,336 Westford St,True,False,"Lowell,",(978) 735-4100,01851
+Best Buy,MA,True,550 Arsenal St Space 2,True,False,"Watertown,",(617) 926-0142,02472
+G & M Groceries,MA,True,504 Cambridge St,True,False,"Worcester,",(508) 757-9940,01610
+Best Buy,MA,True,1 Worcester Rd,True,False,"Framingham,",(508) 872-2223,01701
+Wal-Mart,MA,True,742 MAIN ST,True,False,"North Oxford,",(508) 987-1444,01537
+Roaming Wireless,MA,True,111 Millbury Street,True,False,"Worcester,",(508) 791-7626,01610
+Sprint at RadioShack Store,RI,True,232 GARFIELD AVE,True,False,"Cranston,",(401) 537-2400,02920
+Target,MA,True,400 Cochituate Road,True,False,"Framingham,",(508) 628-3136,01701
+Wal-Mart,RI,True,1776 PLAINFIELD PIKE,True,False,"Cranston,",(401) 946-2030,02921
+Target,MA,True,550 Arsenal Street,True,False,"Watertown,",(617) 924-6574,02472
+Somerville Communications,MA,True,52 Broadway,True,False,"Somerville,",(617) 818-7820,02145
+Kmart,MA,True,77 Middlesex Ave,True,False,"Somerville,",(617) 628-9500,02145
+Max Cellular MA LLC,MA,True,133A Broadway,True,False,"Somerville,",(617) 623-4040,02145
+Wal-Mart,MA,True,72 Main St,True,False,"North Reading,",(978) 664-3262,01864
+Max Cellular MA LLC,MA,True,52 Union Square,True,False,"Somerville,",(617) 966-6572,02143
+Best Buy,MA,True,162 Santilli Hwy,True,False,"Everett,",(617) 394-5080,02149
+Target,MA,True,1 Mystic View Road,True,False,"Everett,",(617) 420-0000,02149
+Target,MA,True,180 Somerville Ave,True,False,"Somerville,",(617) 776-4036,02143
+208 Wireless,MA,True,208 Main Street,True,False,"Malden,",(781) 808-4861,02148
+Max Cellular MA LLC,MA,True,495 Broadway,True,False,"Everett,",(617) 294-1442,02149
+Best Buy,MA,True,100 Cambridgeside Pl,True,False,"Cambridge,",(617) 577-8866,02141
+CV Wireless Corp,MA,True,1201 Broadway,True,False,"Saugus,",(781) 233-2371,01906
+Best Buy,MA,True,1201 Broadway,True,False,"Saugus,",(781) 233-3435,01906
+Target,MA,True,1345 Boylston Street,True,False,"Boston,",not found,02215
+Infinity Communications,MA,True,136A Winter St,True,False,"Haverhill,",(978) 377-7841,01830
+Wal-Mart,NH,True,58 PLAISTOW RD,True,False,"Plaistow,",(603) 382-2839,03865
+DW Wireless Multyservice,MA,True,102 Lafayette Sq,True,False,"Haverhill,",(978) 914-7371,01832
+Target,MA,True,35 Computer Dr,True,False,"Haverhill,",(978) 377-9003,01832
+Kmart,MA,True,45 Storey Ave,True,False,"Newburyport,",(978) 462-8521,01950
+Best Buy,NH,True,290 S Broadway Unit E,True,False,"Salem,",(603) 890-9002,03079
+Wireless Choice,MA,True,67 Jackson St,True,False,"Lawrence,",(978) 688-4000,01841
+Wireless Repair Solutions,MA,True,201 Lawrence St,True,False,"Lawrence,",(978) 681-5922,01841
+Target,NH,True,203-219 South Broadway,True,False,"Salem,",(603) 870-0071,03079
+Wireless Repair,MA,True,530 Broadway,True,False,"Lawrence,",(978) 965-8155,01841
+Unik Wireless,MA,True,366 Essex St,True,False,"Lawrence,",(978) 203-6300,01840
+Nashua Multiservices,MA,True,178 Lawrence Street,True,False,"Lawrence,",(978) 208-1062,01841
+Target,MA,True,67 Pleasant Valley St,True,False,"Methuen,",(978) 983-2020,01844
+Emily Communication,MA,True,357 Jackson St,True,False,"Lawrence,",(978) 258-6777,01841
+Wal-Mart,NH,True,326 N Broadway,True,False,"Salem,",(603) 894-5642,03079
+Target,MA,True,400 Lynn Fells Parkway,True,False,"Saugus,",(781) 307-0000,01906
+Wal-Mart,MA,True,770 BROADWAY,True,False,"Saugus,",not found,01906
+Kmart,MA,True,180 Main St,True,False,"Saugus,",(781) 231-0404,01906
+Copan Wireless,MA,True,26 Revere Street,True,False,"Revere,",(781) 560-8116,02151
+Target,MA,True,400 Cochituate Road,True,False,"Framingham,",(508) 628-3136,01701
+Best Buy,MA,True,1 Worcester Rd,True,False,"Framingham,",(508) 872-2223,01701
+Target,MA,True,36 Furlong Dr,True,False,"Revere,",(781) 922-6030,02151
+SCom/FW Corporation,MA,True,377 Broadway  Ma,True,False,"Chelsea,",(617) 884-6452,02150
+Wireless Repair,MA,True,206 S Union St,True,False,"Lawrence,",(978) 557-5559,01843
+Broadway Towers,MA,True,313 Broadway,True,False,"Revere,",(781) 629-4367,02151
+Preferred Wireless Consultants,MA,True,3106 Washington St,True,False,"Roxbury,",(857) 203-9435,02119
+Wireless Repair,MA,True,530 Broadway,True,False,"Lawrence,",(978) 965-8155,01841
+Movil Wireless Boston,MA,True,881 Western Ave,True,False,"Lynn,",(781) 584-8986,01905
+Wal-Mart,MA,True,280 Washington St,True,False,"Hudson,",(978) 568-3383,01749
+Wal-Mart,MA,True,780 LYNNWAY,True,False,"Lynn,",(781) 592-4300,01905
+Kmart,NH,True,161 S Broadway,True,False,"Salem,",(603) 893-6181,03079
+Wireless Repair,MA,True,206 S Union St,True,False,"Lawrence,",(978) 557-5559,01843
+Max Cellular NH LLC,NH,True,563 Lafayette,True,False,"Seabrook,",(603) 814-4194,03874
+Wal-Mart,NH,True,700 Lafayette Road Unit 1,True,False,"Seabrook,",(603) 474-2037,03874
+Wal-Mart,NH,True,11 Ashleigh Drive,True,False,"Derry,",(603) 434-3589,03038
+Wal-Mart,MA,True,72 Main St,True,False,"North Reading,",(978) 664-3262,01864
+Wal-Mart,MA,True,333 Main St,True,False,"Tewksbury,",(978) 851-6265,01876
+Kmart,MA,True,10 Main St,True,False,"Tewksbury,",(978) 851-9666,01876
+Seacoast Cellular,NH,True,42 Lafayette Rd,True,True,"North Hampton,",(603) 964-8964,03862
+Best Buy,MA,True,230 Independence Way,True,False,"Danvers,",(978) 774-9494,01923
+Metro Wireless,MA,True,376 Merrimack St,True,False,"Lowell,",(978) 703-1032,01852
+Connection Wireless,MA,True,259 South St,True,False,"Lowell,",(978) 677-7280,01852
+Target,MA,True,181 Plain St,True,False,"Lowell,",not found,01852
+Target,MA,True,240 Independence Way,True,False,"Danvers,",(978) 762-4439,01923
+Wal-Mart,NH,True,35 FRESH RIVER RD,True,False,"Epping,",(603) 679-5919,03042
+Best Buy,MA,True,210 Andover St,True,False,"Peabody,",(978) 977-7808,01960
+Wireless Repair Solutions,MA,True,201 Lawrence St,True,False,"Lawrence,",(978) 681-5922,01841
+Max Cellular MA LLC,MA,True,100 Main Street,True,False,"Peabody,",(978) 977-6330,01960
+Unik Wireless,MA,True,366 Essex St,True,False,"Lawrence,",(978) 203-6300,01840
+City Phone's,MA,True,982 Bennington St,True,False,"Boston,",(617) 997-4700,02128
+Emily Communication,MA,True,357 Jackson St,True,False,"Lawrence,",(978) 258-6777,01841
+Nashua Multiservices,MA,True,178 Lawrence Street,True,False,"Lawrence,",(978) 208-1062,01841
+Wireless Choice,MA,True,67 Jackson St,True,False,"Lawrence,",(978) 688-4000,01841
+Power Mobile USA,MA,True,37 Hollis St,True,False,"Framingham,",(508) 872-7999,01702
+Target,MA,True,7 Allstate Rd,True,False,"Dorchester,",(617) 602-1921,02125
+Communication Center,MA,True,345 Washington St,True,False,"Dorchester,",(617) 282-2343,02121
+Power Mobile,MA,True,169 Concord St,True,False,"Framingham,",(508) 309-7559,01702
+Best Buy,MA,True,14 Allstate Rd,True,False,"Dorchester,",(617) 445-5361,02125
+Bonillas Wireless and Multiservices,MA,True,44 Corinth St,True,False,"Roslindale,",(617) 469-9457,02131
+Best Buy,MA,True,769 Donald Lynch Blvd,True,False,"Marlborough,",(508) 486-9430,01752
+Target,MA,True,210 Ballardvale St,True,False,"Wilmington,",not found,01887
+Magic Wireless,MA,True,32A Branch St,True,False,"Lowell,",(978) 674-8181,01851
+Max Cellular MA LLC,MA,True,100 Main Street,True,False,"Peabody,",(978) 977-6330,01960
+Wal-Mart,NH,True,254 Lowell Rd,True,False,"Hudson,",(603) 598-4226,03051
+Best Buy,MA,True,210 Andover St,True,False,"Peabody,",(978) 977-7808,01960
+Lico Wireless,MA,True,336 Westford St,True,False,"Lowell,",(978) 735-4100,01851
+Marconi Radio,MA,True,497 Rantoul St,True,False,"Beverly,",(978) 927-0646,01915
+Target,NH,True,1450 Greenland Rd,True,False,"Greenland,",not found,03840
+Kmart,MA,True,484 Boston Rd,True,False,"Billerica,",(978) 667-4176,01821
+Miraecomm,MA,True,584 Washington St,True,False,"Dorchester Center,",(617) 506-1612,02124
+Best Buy,MA,True,230 Independence Way,True,False,"Danvers,",(978) 774-9494,01923
+Miraecomm,MA,True,1622 Blue Hill Ave,True,False,"Mattapan,",(617) 269-8500,02126
+Best Buy,MA,True,601 Donald Lynch Blvd,True,False,"Marlborough,",(508) 460-0232,01752
+Sin City Towers,MA,True,147 Munroe Street,True,False,"Lynn,",(781) 715-8945,01901
+Target,MA,True,240 Independence Way,True,False,"Danvers,",(978) 762-4439,01923
+Everything Cellular,MA,True,147 Main St,True,False,"Marlborough,",(508) 303-0835,01752
+Genius Planet,MA,True,248 Bowdoin street,True,False,"Dorchester,",(617) 500-9122,02122
+Target,MA,True,605 Boston Post Rd East,True,False,"Marlborough,",(508) 251-6957,01752
+No Credit Wireless Spot,MA,True,1450 Dorchester Ave,True,False,"Dorchester,",(617) 297-2180,02122
+Best Buy,MA,True,700 Providence Hwy,True,False,"Dedham,",(781) 461-6768,02026
+Target,MA,True,423 Donald Lynch Blvd,True,False,"Marlborough,",(508) 573-1004,01752
+Target,MA,True,67 Pleasant Valley St,True,False,"Methuen,",(978) 983-2020,01844
+Solutions For All LLC,MA,True,311 Geneva Ave,True,False,"Dorchester,",(617) 379-3737,02122
+Wal-Mart,MA,True,450 Highland Ave,True,False,"Salem,",(978) 825-1713,01970
+Wal-Mart,MA,True,450 Highland Ave,True,False,"Salem,",(978) 825-1713,01970
+C&E Communications,MA,True,15 Gedney St,True,False,"Salem,",(978) 594-0243,01970
+Target,MA,True,227 Highland Ave,True,False,"Salem,",(978) 224-4000,01970
+Sin City Towers,MA,True,147 Munroe Street,True,False,"Lynn,",(781) 715-8945,01901
+Movil Wireless Boston,MA,True,881 Western Ave,True,False,"Lynn,",(781) 584-8986,01905
+Wal-Mart,MA,True,780 LYNNWAY,True,False,"Lynn,",(781) 592-4300,01905
+Kmart,MA,True,180 Main St,True,False,"Saugus,",(781) 231-0404,01906
+Wal-Mart,MA,True,770 BROADWAY,True,False,"Saugus,",not found,01906
+Best Buy,MA,True,210 Andover St,True,False,"Peabody,",(978) 977-7808,01960
+CV Wireless Corp,MA,True,1201 Broadway,True,False,"Saugus,",(781) 233-2371,01906
+Max Cellular MA LLC,MA,True,100 Main Street,True,False,"Peabody,",(978) 977-6330,01960
+Best Buy,MA,True,1201 Broadway,True,False,"Saugus,",(781) 233-3435,01906
+Target,MA,True,400 Lynn Fells Parkway,True,False,"Saugus,",(781) 307-0000,01906
+Target,MA,True,36 Furlong Dr,True,False,"Revere,",(781) 922-6030,02151
+Marconi Radio,MA,True,497 Rantoul St,True,False,"Beverly,",(978) 927-0646,01915
+Target,MA,True,227 Highland Ave,True,False,"Salem,",(978) 224-4000,01970
+Preferred Wireless Consultants,MA,True,1260 Hyde Park Ave,True,False,"Hyde Park,",(617) 910-9590,02136
+Nashua Multi Services,NH,True,16 Kinsley st,True,False,"Nashua,",(603) 943-3153,03060
+Best Buy,NH,True,310 Daniel Webster Highway,True,False,"Nashua,",(603) 888-5414,03060
+Target,NH,True,310 Daniel Webster Highway,True,False,"Nashua,",(603) 891-4858,03060
+Infinity Communication,NH,True,87 Main St.,True,False,"Nashua,",(603) 402-9904,03060
+C&E Communications,MA,True,15 Gedney St,True,False,"Salem,",(978) 594-0243,01970
+Wal-Mart,NH,True,254 Lowell Rd,True,False,"Hudson,",(603) 598-4226,03051
+Best Buy,NH,True,220 Daniel Webster Hwy,True,False,"Nashua,",(603) 891-4900,03062
+Copan Wireless,MA,True,26 Revere Street,True,False,"Revere,",(781) 560-8116,02151
+Broadway Towers,MA,True,313 Broadway,True,False,"Revere,",(781) 629-4367,02151
+Target,MA,True,240 Independence Way,True,False,"Danvers,",(978) 762-4439,01923
+Best Buy,MA,True,230 Independence Way,True,False,"Danvers,",(978) 774-9494,01923
+City Phone's,MA,True,982 Bennington St,True,False,"Boston,",(617) 997-4700,02128
+SCom/FW Corporation,MA,True,377 Broadway  Ma,True,False,"Chelsea,",(617) 884-6452,02150
+Target,MA,True,1 Mystic View Road,True,False,"Everett,",(617) 420-0000,02149
+Max Cellular MA LLC,MA,True,495 Broadway,True,False,"Everett,",(617) 294-1442,02149
+Best Buy,MA,True,162 Santilli Hwy,True,False,"Everett,",(617) 394-5080,02149
+208 Wireless,MA,True,208 Main Street,True,False,"Malden,",(781) 808-4861,02148
+Kmart,MA,True,77 Middlesex Ave,True,False,"Somerville,",(617) 628-9500,02145
+Somerville Communications,MA,True,52 Broadway,True,False,"Somerville,",(617) 818-7820,02145
+Max Cellular MA LLC,MA,True,133A Broadway,True,False,"Somerville,",(617) 623-4040,02145
+Best Buy,MA,True,100 Cambridgeside Pl,True,False,"Cambridge,",(617) 577-8866,02141
+Max Cellular MA LLC,MA,True,52 Union Square,True,False,"Somerville,",(617) 966-6572,02143
+Marconi Radio,MA,True,497 Rantoul St,True,False,"Beverly,",(978) 927-0646,01915
+Wal-Mart,MA,True,450 Highland Ave,True,False,"Salem,",(978) 825-1713,01970
+C&E Communications,MA,True,15 Gedney St,True,False,"Salem,",(978) 594-0243,01970
+Kmart,MA,True,45 Storey Ave,True,False,"Newburyport,",(978) 462-8521,01950
+Target,MA,True,240 Independence Way,True,False,"Danvers,",(978) 762-4439,01923
+Best Buy,MA,True,230 Independence Way,True,False,"Danvers,",(978) 774-9494,01923
+Target,MA,True,227 Highland Ave,True,False,"Salem,",(978) 224-4000,01970
+Best Buy,MA,True,210 Andover St,True,False,"Peabody,",(978) 977-7808,01960
+Max Cellular MA LLC,MA,True,100 Main Street,True,False,"Peabody,",(978) 977-6330,01960
+Wal-Mart,MA,True,72 Main St,True,False,"North Reading,",(978) 664-3262,01864
+Target,MA,True,180 Somerville Ave,True,False,"Somerville,",(617) 776-4036,02143
+Target,MA,True,101 Commerce Way,True,False,"Woburn,",(781) 904-0002,01801
+Best Buy,MA,True,14 Allstate Rd,True,False,"Dorchester,",(617) 445-5361,02125
+Target,MA,True,1345 Boylston Street,True,False,"Boston,",not found,02215
+Preferred Wireless Consultants,MA,True,3106 Washington St,True,False,"Roxbury,",(857) 203-9435,02119
+Target,MA,True,7 Allstate Rd,True,False,"Dorchester,",(617) 602-1921,02125
+Solutions For All LLC,MA,True,311 Geneva Ave,True,False,"Dorchester,",(617) 379-3737,02122
+Communication Center,MA,True,345 Washington St,True,False,"Dorchester,",(617) 282-2343,02121
+No Credit Wireless Spot,MA,True,1450 Dorchester Ave,True,False,"Dorchester,",(617) 297-2180,02122
+Target,MA,True,210 Ballardvale St,True,False,"Wilmington,",not found,01887
+Genius Planet,MA,True,248 Bowdoin street,True,False,"Dorchester,",(617) 500-9122,02122
+Best Buy,MA,True,84 Middlesex Tpke,True,False,"Burlington,",(781) 238-8149,01803
+Best Buy,MA,True,550 Arsenal St Space 2,True,False,"Watertown,",(617) 926-0142,02472
+Miraecomm,MA,True,584 Washington St,True,False,"Dorchester Center,",(617) 506-1612,02124
+Target,MA,True,1167 Washington St,True,False,"Hanover,",(781) 499-1961,02339
+Wal-Mart,MA,True,1775 Washington St,True,False,"Hanover,",(781) 826-0606,02339
+Wal-Mart,MA,True,740 Middle St,True,False,"Weymouth,",(781) 331-0063,02188
+Wal-Mart,MA,True,777 Brockton Ave,True,False,"Abington,",(781) 857-2345,02351
+Target,MA,True,385 Centre Ave,True,False,"Abington,",(781) 347-9003,02351
+Target,MA,True,250 Granite St,True,False,"Braintree,",(781) 817-8809,02184
+Best Buy,MA,True,550 Grossman Dr,True,False,"Braintree,",(781) 848-1100,02184
+Best Buy,MA,True,250 Granite St,True,False,"Braintree,",(781) 843-3020,02184
+LSC Communications LLC,MA,True,102 South Franklin St,True,False,"Holbrook,",(617) 291-1173,02343
+Wal-Mart,MA,True,30 MEMORIAL DR,True,False,"Avon,",(508) 427-9460,02322
+Kmart,MA,True,2001 Main Street,True,False,"Brockton,",(508) 588-9010,02301
+Montello News,MA,True,829 N Main St,True,False,"Brockton,",(508) 583-3724,02301
+CV Electronics,MA,True,200 Westgate Mall Drive,True,False,"Brockton,",(508) 510-3836,02301
+Cell Plus,MA,True,649 Warren Ave,True,False,"Brockton,",(774) 259-0596,02301
+Best Buy,MA,True,200 Westgate Dr Westgate Mall,True,False,"Brockton,",(508) 587-5294,02301
+Target,MA,True,550 Arsenal Street,True,False,"Watertown,",(617) 924-6574,02472
+Miraecomm,MA,True,1622 Blue Hill Ave,True,False,"Mattapan,",(617) 269-8500,02126
+Bonillas Wireless and Multiservices,MA,True,44 Corinth St,True,False,"Roslindale,",(617) 469-9457,02131
+Moody Multi Service,MA,True,485 Moody St,True,False,"Waltham,",(781) 893-0900,02453
+Preferred Wireless Consultants,MA,True,1260 Hyde Park Ave,True,False,"Hyde Park,",(617) 910-9590,02136
+Kmart,MA,True,10 Main St,True,False,"Tewksbury,",(978) 851-9666,01876
+Wal-Mart,MA,True,333 Main St,True,False,"Tewksbury,",(978) 851-6265,01876
+Kmart,MA,True,484 Boston Rd,True,False,"Billerica,",(978) 667-4176,01821
+Wal-Mart,MA,True,740 Middle St,True,False,"Weymouth,",(781) 331-0063,02188
+Best Buy,MA,True,250 Granite St,True,False,"Braintree,",(781) 843-3020,02184
+Best Buy,MA,True,550 Grossman Dr,True,False,"Braintree,",(781) 848-1100,02184
+Wireless Repair,MA,True,206 S Union St,True,False,"Lawrence,",(978) 557-5559,01843
+Target,MA,True,250 Granite St,True,False,"Braintree,",(781) 817-8809,02184
+InStyle Wireless,MA,True,350 Oak St,True,False,"Brockton,",(508) 436-7666,02301
+Best Buy,MA,True,200 Westgate Dr.,True,False,"Brockton,",(508) 894-3015,02301
+Wal-Mart,MA,True,700 Oak St,True,False,"Brockton,",(508) 584-2333,02301
+Target,MA,True,1 Hawes Way,True,False,"Stoughton,",(781) 847-4000,02072
+CV Wireless Corp,MA,True,7 Freeman St,True,False,"Stoughton,",(508) 510-3836,02072
+Genius Planet,MA,True,248 Bowdoin street,True,False,"Dorchester,",(617) 500-9122,02122
+Miraecomm,MA,True,1622 Blue Hill Ave,True,False,"Mattapan,",(617) 269-8500,02126
+Miraecomm,MA,True,584 Washington St,True,False,"Dorchester Center,",(617) 506-1612,02124
+Solutions For All LLC,MA,True,311 Geneva Ave,True,False,"Dorchester,",(617) 379-3737,02122
+No Credit Wireless Spot,MA,True,1450 Dorchester Ave,True,False,"Dorchester,",(617) 297-2180,02122
+Best Buy,MA,True,14 Allstate Rd,True,False,"Dorchester,",(617) 445-5361,02125
+Preferred Wireless Consultants,MA,True,1260 Hyde Park Ave,True,False,"Hyde Park,",(617) 910-9590,02136
+Communication Center,MA,True,345 Washington St,True,False,"Dorchester,",(617) 282-2343,02121
+Target,MA,True,7 Allstate Rd,True,False,"Dorchester,",(617) 602-1921,02125
+Bonillas Wireless and Multiservices,MA,True,44 Corinth St,True,False,"Roslindale,",(617) 469-9457,02131
+Target,MA,True,2421 Cranberry Hwy Ste 110,True,False,"Wareham,",(508) 273-0436,02571
+Wal-Mart,MA,True,300 Colony Place Rd,True,False,"Plymouth,",(508) 830-9555,02360
+Best Buy,MA,True,228 Colony Place Rd,True,False,"Plymouth,",(781) 582-1486,02360
+Target,MA,True,101 Independence Mall Way,True,False,"Kingston,",(781) 585-5825,02364
+Wal-Mart,MA,True,15 Tobey Rd,True,False,"East Wareham,",(508) 295-8890,02538
+Wal-Mart,MA,True,36 Paramount Dr,True,False,"Raynham,",(508) 822-4900,02767
+Wal-Mart,MA,True,160 BROADWAY,True,False,"Raynham,",(508) 692-6046,02767
+Wal-Mart,MA,True,42 Fairhaven Commons Way,True,False,"Fairhaven,",(508) 993-8100,02719
+Hot Spot Wireless,MA,True,124 Nauset St,True,False,"New Bedford,",(774) 202-4627,02746
+Kmart,MA,True,9 Plaza Way,True,False,"Fairhaven,",(508) 997-1246,02719
+Advanced Wireless New Bedford,MA,True,1834 Acushnet Ave,True,False,"New Bedford,",(508) 991-7810,02746
+Digital 2000,MA,True,866 Kempton,True,False,"New Bedford,",(508) 999-9908,02740
+Target,MA,True,1167 Washington St,True,False,"Hanover,",(781) 499-1961,02339
+Cell Talk Plus,MA,True,95 Rockdale Ave,True,False,"New Bedford,",(774) 425-2927,02740
+Wal-Mart,MA,True,1775 Washington St,True,False,"Hanover,",(781) 826-0606,02339
+Preferred Wireless Consultants,MA,True,3106 Washington St,True,False,"Roxbury,",(857) 203-9435,02119
+Target,MA,True,101 Independence Mall Way,True,False,"Kingston,",(781) 585-5825,02364
+Best Buy,MA,True,700 Providence Hwy,True,False,"Dedham,",(781) 461-6768,02026
+Five Star Wireless,MA,True,645 Washington St,True,False,"Norwood,",(781) 352-2714,02062
+City Phone's,MA,True,982 Bennington St,True,False,"Boston,",(617) 997-4700,02128
+Target,MA,True,41 Robert Dr,True,False,"South Easton,",(508) 230-0005,02375
+Target,MA,True,1345 Boylston Street,True,False,"Boston,",not found,02215
+Best Buy,MA,True,100 Cambridgeside Pl,True,False,"Cambridge,",(617) 577-8866,02141
+Broadway Towers,MA,True,313 Broadway,True,False,"Revere,",(781) 629-4367,02151
+Copan Wireless,MA,True,26 Revere Street,True,False,"Revere,",(781) 560-8116,02151
+Target,MA,True,180 Somerville Ave,True,False,"Somerville,",(617) 776-4036,02143
+SCom/FW Corporation,MA,True,377 Broadway  Ma,True,False,"Chelsea,",(617) 884-6452,02150
+Target,MA,True,36 Furlong Dr,True,False,"Revere,",(781) 922-6030,02151
+Max Cellular MA LLC,MA,True,52 Union Square,True,False,"Somerville,",(617) 966-6572,02143
+Max Cellular MA LLC,MA,True,495 Broadway,True,False,"Everett,",(617) 294-1442,02149
+Best Buy,MA,True,27 Faunce Corner Rd,True,False,"North Dartmouth,",(508) 984-0002,02747
+Best Buy,MA,True,200 Dartmouth Mall Space 1140,True,False,"North Dartmouth,",(508) 996-1517,02747
+InStyle Wireless,MA,True,350 Oak St,True,False,"Brockton,",(508) 436-7666,02301
+Cell Plus,MA,True,649 Warren Ave,True,False,"Brockton,",(774) 259-0596,02301
+Wal-Mart,MA,True,700 Oak St,True,False,"Brockton,",(508) 584-2333,02301
+Wal-Mart,MA,True,777 Brockton Ave,True,False,"Abington,",(781) 857-2345,02351
+NCS Wireless at Silver City Galleria,MA,True,2 Galleria Mall Dr Unit 207,True,False,"Taunton,",(774) 501-1120,02780
+Best Buy,MA,True,200 Westgate Dr.,True,False,"Brockton,",(508) 894-3015,02301
+Target,MA,True,41 Robert Dr,True,False,"South Easton,",(508) 230-0005,02375
+Khan & Son Company Inc,MA,True,309 Whittenton St,True,False,"Taunton,",(508) 822-9222,02780
+NCS Wireless LLC,MA,True,200 N Dartmouth Mall,True,False,"North Dartmouth,",(508) 718-7255,02747
+Best Buy,MA,True,200 Westgate Dr Westgate Mall,True,False,"Brockton,",(508) 587-5294,02301
+Target,MA,True,385 Centre Ave,True,False,"Abington,",(781) 347-9003,02351
+Target,MA,True,81 Taunton Depot Dr,True,False,"Taunton,",(508) 824-8004,02780
+Kmart,MA,True,2001 Main Street,True,False,"Brockton,",(508) 588-9010,02301
+Somerville Communications,MA,True,52 Broadway,True,False,"Somerville,",(617) 818-7820,02145
+Best Buy,MA,True,162 Santilli Hwy,True,False,"Everett,",(617) 394-5080,02149
+Wal-Mart,MA,True,36 Paramount Dr,True,False,"Raynham,",(508) 822-4900,02767
+Wal-Mart,MA,True,160 BROADWAY,True,False,"Raynham,",(508) 692-6046,02767
+Target,MA,True,1 Mystic View Road,True,False,"Everett,",(617) 420-0000,02149
+Max Cellular MA LLC,MA,True,133A Broadway,True,False,"Somerville,",(617) 623-4040,02145
+Kmart,MA,True,77 Middlesex Ave,True,False,"Somerville,",(617) 628-9500,02145
+Wal-Mart,MA,True,550 Providence Hwy,True,False,"Walpole,",(508) 668-4144,02081
+208 Wireless,MA,True,208 Main Street,True,False,"Malden,",(781) 808-4861,02148
+Wal-Mart,MA,True,506 State Rd,True,False,"North Dartmouth,",(508) 984-7771,02747
+CV Electronics,MA,True,200 Westgate Mall Drive,True,False,"Brockton,",(508) 510-3836,02301
+Montello News,MA,True,829 N Main St,True,False,"Brockton,",(508) 583-3724,02301
+Best Buy,MA,True,2 Galleria Mall Dr,True,False,"Taunton,",(508) 977-1200,02780
+All Access Wireless,MA,True,56 Main St.,True,False,"Taunton,",(508) 967-6074,02780
+Target,MA,True,479 State Rd,True,False,"North Dartmouth,",(508) 979-7530,02747
+North Star,MA,True,241 Edgartown Vineyard Haven Rd,True,False,"Edgartown,",(508) 627-3200,02539
+Wal-Mart,MA,True,137 Teaticket Hwy,True,False,"East Falmouth,",(508) 540-8995,02536
+Cell Talk Wireless,MA,True,860 Brock Ave,True,False,"New Bedford,",(774) 628-9412,02744
+Wal-Mart,MA,True,137 Teaticket Hwy,True,False,"East Falmouth,",(508) 540-8995,02536
+Wal-Mart,MA,True,15 Tobey Rd,True,False,"East Wareham,",(508) 295-8890,02538
+Best Buy,MA,True,793 Iyannough Rd Ste A,True,False,"Hyannis,",(508) 771-5170,02601
+Target,MA,True,2421 Cranberry Hwy Ste 110,True,False,"Wareham,",(508) 273-0436,02571
+Best Buy,MA,True,769 Lyannough Road,True,False,"Hyannis,",(508) 771-4793,02601
+Kmart,MA,True,768 Iyannough Rd,True,False,"Hyannis,",(508) 771-0012,02601
+Save Time Wireless,MA,True,49 Iyannough Rd,True,False,"Hyannis,",(508) 790-0600,02601
+North Star,MA,True,241 Edgartown Vineyard Haven Rd,True,False,"Edgartown,",(508) 627-3200,02539
+Wal-Mart,MA,True,42 Fairhaven Commons Way,True,False,"Fairhaven,",(508) 993-8100,02719
+Kmart,MA,True,9 Plaza Way,True,False,"Fairhaven,",(508) 997-1246,02719
+Cell Talk Wireless,MA,True,860 Brock Ave,True,False,"New Bedford,",(774) 628-9412,02744
+Advanced Wireless New Bedford,MA,True,1834 Acushnet Ave,True,False,"New Bedford,",(508) 991-7810,02746
+Hot Spot Wireless,MA,True,124 Nauset St,True,False,"New Bedford,",(774) 202-4627,02746
+Cell Talk Plus,MA,True,95 Rockdale Ave,True,False,"New Bedford,",(774) 425-2927,02740
+Digital 2000,MA,True,866 Kempton,True,False,"New Bedford,",(508) 999-9908,02740
+Salvadorean Mini Mart,MA,True,57 Old South Rd,True,False,"Nantucket,",(508) 332-4770,02554
+Wal-Mart,MA,True,300 Colony Place Rd,True,False,"Plymouth,",(508) 830-9555,02360
+Best Buy,MA,True,228 Colony Place Rd,True,False,"Plymouth,",(781) 582-1486,02360
+Best Buy,MA,True,793 Iyannough Rd Ste A,True,False,"Hyannis,",(508) 771-5170,02601
+Best Buy,MA,True,769 Lyannough Road,True,False,"Hyannis,",(508) 771-4793,02601
+Kmart,MA,True,768 Iyannough Rd,True,False,"Hyannis,",(508) 771-0012,02601
+Save Time Wireless,MA,True,49 Iyannough Rd,True,False,"Hyannis,",(508) 790-0600,02601
+Wal-Mart,MA,True,54 Cousineau Drive,True,False,"Swansea,",(508) 677-3775,02777
+Target,MA,True,579 Gar Hwy Ste 5,True,False,"Swansea,",(774) 488-3684,02777
+NCS Wireless LLC,MA,True,795 Robeson St,True,False,"Fall River,",(508) 672-4293,02720
+NCS Wireless at Silver City Galleria,MA,True,2 Galleria Mall Dr Unit 207,True,False,"Taunton,",(774) 501-1120,02780
+Best Buy,MA,True,2 Galleria Mall Dr,True,False,"Taunton,",(508) 977-1200,02780
+Target,MA,True,81 Taunton Depot Dr,True,False,"Taunton,",(508) 824-8004,02780
+All Access Wireless,MA,True,56 Main St.,True,False,"Taunton,",(508) 967-6074,02780
+Steadfast Group Inc,MA,True,800 N Main St Unit B,True,False,"Fall River,",(508) 617-8009,02720
+Khan & Son Company Inc,MA,True,309 Whittenton St,True,False,"Taunton,",(508) 822-9222,02780
+Wal-Mart,MA,True,1180 Fall River Ave,True,False,"Seekonk,",(508) 336-0290,02771
+Best Buy,MA,True,41 Commerce Way,True,False,"Seekonk,",(508) 336-1391,02771
+Lifetime Communications,MA,True,1332 Pleasant St,True,False,"Fall River,",(508) 676-2355,02723
+Target,MA,True,79 Commerce Way,True,False,"Seekonk,",(508) 336-1117,02771
+Kmart,MA,True,Rte 81 24 Canning Blvd,True,False,"Fall River,",(508) 679-2111,02721
+NCS Wireless LLC,MA,True,502 S Main St,True,False,"Fall River,",(508) 675-4841,02721
+Cell Talk Wireless,MA,True,860 Brock Ave,True,False,"New Bedford,",(774) 628-9412,02744
+Digital 2000,MA,True,866 Kempton,True,False,"New Bedford,",(508) 999-9908,02740
+Cell Talk Plus,MA,True,95 Rockdale Ave,True,False,"New Bedford,",(774) 425-2927,02740
+Wal-Mart,MA,True,42 Fairhaven Commons Way,True,False,"Fairhaven,",(508) 993-8100,02719
+Advanced Wireless New Bedford,MA,True,1834 Acushnet Ave,True,False,"New Bedford,",(508) 991-7810,02746
+Best Buy,MA,True,27 Faunce Corner Rd,True,False,"North Dartmouth,",(508) 984-0002,02747
+Best Buy,MA,True,200 Dartmouth Mall Space 1140,True,False,"North Dartmouth,",(508) 996-1517,02747
+NCS Wireless LLC,MA,True,200 N Dartmouth Mall,True,False,"North Dartmouth,",(508) 718-7255,02747
+Kmart,MA,True,9 Plaza Way,True,False,"Fairhaven,",(508) 997-1246,02719
+Wal-Mart,MA,True,506 State Rd,True,False,"North Dartmouth,",(508) 984-7771,02747
+Target,MA,True,479 State Rd,True,False,"North Dartmouth,",(508) 979-7530,02747
+Hot Spot Wireless,MA,True,124 Nauset St,True,False,"New Bedford,",(774) 202-4627,02746
+Lifetime Communications,MA,True,1332 Pleasant St,True,False,"Fall River,",(508) 676-2355,02723
+NCS Wireless LLC,MA,True,502 S Main St,True,False,"Fall River,",(508) 675-4841,02721
+Kmart,MA,True,Rte 81 24 Canning Blvd,True,False,"Fall River,",(508) 679-2111,02721
+Wal-Mart,MA,True,36 Paramount Dr,True,False,"Raynham,",(508) 822-4900,02767
+Wal-Mart,MA,True,638 Quequechan Street,True,False,"Fall River,",(508) 730-2677,02721
+Smartphone Wireless,MA,True,1439 South Main St,True,False,"Fall River,",(508) 567-3917,02724
+Wal-Mart,MA,True,160 BROADWAY,True,False,"Raynham,",(508) 692-6046,02767
+Kmart,MA,True,1130 Newport Ave,True,False,"Attleboro,",(508) 761-4770,02703
+Prime Time EP,RI,True,912 Broadway,True,False,"East Providence,",(401) 435-8050,02914
+Target,MA,True,479 State Rd,True,False,"North Dartmouth,",(508) 979-7530,02747
+Best Buy,MA,True,200 Dartmouth Mall Space 1140,True,False,"North Dartmouth,",(508) 996-1517,02747
+Best Buy,MA,True,27 Faunce Corner Rd,True,False,"North Dartmouth,",(508) 984-0002,02747
+NCS Wireless LLC,MA,True,200 N Dartmouth Mall,True,False,"North Dartmouth,",(508) 718-7255,02747
+Preferred Wireless Consultants,RI,True,704 Broadway,True,False,"Pawtucket,",(401) 475-0943,02860
+Nation Cellnet,RI,True,363 Smithfield Avenue,True,False,"Pawtucket,",(401) 305-7655,02860
+Expert Wireless RI,RI,True,510 Prairie Ave,True,False,"Providence,",(401) 285-6050,02905
+Telebeepers Dexter,RI,True,21 Dexter St,True,False,"Pawtucket,",(401) 727-0060,02860
+Wal-Mart,MA,True,506 State Rd,True,False,"North Dartmouth,",(508) 984-7771,02747
+Wal-Mart,MA,True,638 Quequechan Street,True,False,"Fall River,",(508) 730-2677,02721
+Smartphone Wireless,MA,True,1439 South Main St,True,False,"Fall River,",(508) 567-3917,02724
+Steadfast Group Inc,MA,True,800 N Main St Unit B,True,False,"Fall River,",(508) 617-8009,02720
+NCS Wireless LLC,MA,True,795 Robeson St,True,False,"Fall River,",(508) 672-4293,02720
+Wal-Mart,RI,True,199 CONNELL HWY,True,False,"Newport,",(401) 848-5167,02840
+Wal-Mart,MA,True,54 Cousineau Drive,True,False,"Swansea,",(508) 677-3775,02777
+Target,MA,True,579 Gar Hwy Ste 5,True,False,"Swansea,",(774) 488-3684,02777
+Primetime,RI,True,1380 Broad St,True,False,"Providence,",(401) 572-3029,02905
+PC-Tech,RI,True,901 Main St,True,False,"Pawtucket,",(401) 475-4775,02860
+Migz Wireless Central Falls,RI,True,747 Broad St,True,False,"Central Falls,",(401) 475-6944,02863
+Lauritas Video & Varieties,RI,True,881 Broad Street,True,False,"Central Falls,",(401) 722-5454,02863
+The Electronics Market Inc.,RI,True,582 Dexter St,True,False,"Central Falls,",(401) 305-3303,02863
+Primetime,RI,True,748 Cranston St,True,False,"Providence,",(401) 443-2619,02907
+Primetime Providence,RI,True,500 Broad St,True,False,"Providence,",(401) 272-7022,02907
+Providence Multiservice,RI,True,1188 Elmwood Ave,True,False,"Providence,",(401) 837-2626,02907
+JR Electronics,RI,True,516 Cranston Street,True,False,"Providence,",(401) 453-5300,02907
+Smart Cellular,RI,True,1052 Charles St,True,False,"Providence,",(401) 722-1618,02904
+Wal-Mart,RI,True,51 SILVER SPRING ST,True,False,"Providence,",(401) 272-5047,02904
+TeleService,RI,True,1103 Chalkstone Ave,True,False,"Providence,",(401) 331-0270,02908
+Telebeepers 941 Providence,RI,True,941 Chalkstone Ave,True,False,"Providence,",(401) 727-0060,02908
+Target,MA,True,41 Robert Dr,True,False,"South Easton,",(508) 230-0005,02375
+Best Buy,MA,True,1337 S Washington St Route 1,True,False,"North Attleboro,",(508) 699-5800,02760
+Wal-Mart,RI,True,258 POST RD,True,False,"Westerly,",(401) 322-0790,02891
+Target,CT,True,195 River Road,True,False,"Jewett City,",(860) 823-2960,06351
+Wal-Mart,CT,True,150 Gold Star Hwy,True,False,"Groton,",(860) 448-2022,06340
+EZ Fone,CT,True,474 Colman St,True,False,"New London,",(860) 443-0301,06320
+Wal-Mart,RI,True,1031 Ten Rod Rd,True,False,"North Kingstown,",(401) 294-0025,02852
+Wal-Mart,RI,True,650 CENTRE OF NEW ENGLAND BLVD,True,False,"Coventry,",(401) 823-7780,02816
+Company 4Zero1,RI,True,570 Douglas Avenue,True,False,"Providence,",(401) 228-8934,02908
+Best Buy,MA,True,280 School St,True,False,"Mansfield,",(508) 261-2340,02048
+Target,MA,True,1205 South Washington St.,True,False,"North Attleboro,",(508) 699-9118,02760
+Wal-Mart,MA,True,1470 S WASHINGTON ST,True,False,"North Attleboro,",(508) 699-0277,02760
+Best Buy,MA,True,999 S Washington St,True,False,"North Attleboro,",(508) 699-9001,02760
+Hot Spot Wireless,MA,True,124 Nauset St,True,False,"New Bedford,",(774) 202-4627,02746
+Zone Multi Service,RI,True,283 Plainfield St,True,False,"Providence,",(401) 383-7366,02909
+Advanced Wireless New Bedford,MA,True,1834 Acushnet Ave,True,False,"New Bedford,",(508) 991-7810,02746
+MJS Express Inc.,RI,True,292 Manton Ave,True,False,"Providence,",(401) 270-4948,02909
+RI Wireless,RI,True,243 Webster Ave,True,False,"Providence,",(401) 270-2248,02909
+Mundo Wireless RI,RI,True,319 Pocasset ave,True,False,"Providence,",(401) 274-5400,02909
+Mega Wireless,RI,True,308 Union Ave,True,False,"Providence,",(401) 270-2827,02909
+Miguelangelo Studio & Wireless,RI,True,1920 Westminster St,True,False,"Providence,",(401) 861-2016,02909
+Cell Talk Plus,MA,True,95 Rockdale Ave,True,False,"New Bedford,",(774) 425-2927,02740
+Target,RI,True,620 George Washington Hwy,True,False,"Lincoln,",(401) 642-0080,02865
+Wal-Mart,RI,True,258 POST RD,True,False,"Westerly,",(401) 322-0790,02891
+Advanced Mobile Solutions,RI,True,616 George Washington Hwy,True,True,"Lincoln,",(401) 335-3600,02865
+Digital 2000,MA,True,866 Kempton,True,False,"New Bedford,",(508) 999-9908,02740
+Target,MA,True,91 Taunton St,True,False,"Plainville,",(508) 643-5008,02762
+Kmart,RI,True,296 Garfield Avenue,True,False,"Cranston,",(401) 946-3400,02920
+Sprint at RadioShack Store,RI,True,232 GARFIELD AVE,True,False,"Cranston,",(401) 537-2400,02920
+Best Services JC Inc,RI,True,232 Broad Street,True,False,"Cumberland,",(401) 729-6074,02864
+Best Buy,RI,True,24 Universal Blvd,True,False,"Warwick,",(401) 826-7007,02886
+Target,RI,True,1245 Bald Hill Rd,True,False,"Warwick,",(401) 821-0121,02886
+Wal-Mart,RI,True,650 BALD HILL RD,True,False,"Warwick,",(401) 821-1766,02886
+Target,RI,True,400 Bald Hill Rd,True,False,"Warwick,",(401) 244-1972,02886
+InStyle Wireless,MA,True,350 Oak St,True,False,"Brockton,",(508) 436-7666,02301
+Wal-Mart,MA,True,700 Oak St,True,False,"Brockton,",(508) 584-2333,02301
+Best Buy,MA,True,200 Westgate Dr Westgate Mall,True,False,"Brockton,",(508) 587-5294,02301
+Montello News,MA,True,829 N Main St,True,False,"Brockton,",(508) 583-3724,02301
+Wal-Mart,MA,True,42 Fairhaven Commons Way,True,False,"Fairhaven,",(508) 993-8100,02719
+Wal-Mart,RI,True,650 CENTRE OF NEW ENGLAND BLVD,True,False,"Coventry,",(401) 823-7780,02816
+Wal-Mart,RI,True,1776 PLAINFIELD PIKE,True,False,"Cranston,",(401) 946-2030,02921
+Screen MD Plus,RI,True,19 Washington Street,True,False,"West Warwick,",(401) 828-0851,02893
+Kmart,RI,True,296 Garfield Avenue,True,False,"Cranston,",(401) 946-3400,02920
+Sprint at RadioShack Store,RI,True,232 GARFIELD AVE,True,False,"Cranston,",(401) 537-2400,02920
+Wal-Mart,RI,True,650 BALD HILL RD,True,False,"Warwick,",(401) 821-1766,02886
+Miguelangelo Studio & Wireless,RI,True,1920 Westminster St,True,False,"Providence,",(401) 861-2016,02909
+Target,RI,True,371 Putnam Pike Ste A-250,True,False,"Smithfield,",(401) 232-1699,02917
+Mundo Wireless RI,RI,True,319 Pocasset ave,True,False,"Providence,",(401) 274-5400,02909
+Zone Multi Service,RI,True,283 Plainfield St,True,False,"Providence,",(401) 383-7366,02909
+MJS Express Inc.,RI,True,292 Manton Ave,True,False,"Providence,",(401) 270-4948,02909
+Mega Wireless,RI,True,308 Union Ave,True,False,"Providence,",(401) 270-2827,02909
+Target,RI,True,400 Bald Hill Rd,True,False,"Warwick,",(401) 244-1972,02886
+Best Buy,RI,True,24 Universal Blvd,True,False,"Warwick,",(401) 826-7007,02886
+Access Wireless,CT,True,561 Hartford Pike,True,True,"Dayville,",(860) 412-9010,06241
+Kmart,MA,True,2001 Main Street,True,False,"Brockton,",(508) 588-9010,02301
+Cell Plus,MA,True,649 Warren Ave,True,False,"Brockton,",(774) 259-0596,02301
+CV Electronics,MA,True,200 Westgate Mall Drive,True,False,"Brockton,",(508) 510-3836,02301
+Cell Talk Wireless,MA,True,860 Brock Ave,True,False,"New Bedford,",(774) 628-9412,02744
+Kmart,MA,True,9 Plaza Way,True,False,"Fairhaven,",(508) 997-1246,02719
+Best Buy,MA,True,200 Westgate Dr.,True,False,"Brockton,",(508) 894-3015,02301
+Wal-Mart,RI,True,1776 PLAINFIELD PIKE,True,False,"Cranston,",(401) 946-2030,02921
+Target,CT,True,2177 Killingly Cmns,True,False,"Dayville,",(860) 412-1283,06241
+Target,RI,True,1245 Bald Hill Rd,True,False,"Warwick,",(401) 821-0121,02886
+RI Wireless,RI,True,243 Webster Ave,True,False,"Providence,",(401) 270-2248,02909
+Company 4Zero1,RI,True,570 Douglas Avenue,True,False,"Providence,",(401) 228-8934,02908
+Providence Multiservice,RI,True,1188 Elmwood Ave,True,False,"Providence,",(401) 837-2626,02907
+Primetime Providence,RI,True,500 Broad St,True,False,"Providence,",(401) 272-7022,02907
+Primetime,RI,True,748 Cranston St,True,False,"Providence,",(401) 443-2619,02907
+JR Electronics,RI,True,516 Cranston Street,True,False,"Providence,",(401) 453-5300,02907
+TeleService,RI,True,1103 Chalkstone Ave,True,False,"Providence,",(401) 331-0270,02908
+Telebeepers 941 Providence,RI,True,941 Chalkstone Ave,True,False,"Providence,",(401) 727-0060,02908
+Smart Cellular,RI,True,1052 Charles St,True,False,"Providence,",(401) 722-1618,02904
+Wal-Mart,RI,True,51 SILVER SPRING ST,True,False,"Providence,",(401) 272-5047,02904
+Expert Wireless RI,RI,True,510 Prairie Ave,True,False,"Providence,",(401) 285-6050,02905
+Primetime,RI,True,1380 Broad St,True,False,"Providence,",(401) 572-3029,02905
+Target,RI,True,620 George Washington Hwy,True,False,"Lincoln,",(401) 642-0080,02865
+Wal-Mart,RI,True,199 CONNELL HWY,True,False,"Newport,",(401) 848-5167,02840
+Wal-Mart,RI,True,1031 Ten Rod Rd,True,False,"North Kingstown,",(401) 294-0025,02852
+Target,RI,True,1245 Bald Hill Rd,True,False,"Warwick,",(401) 821-0121,02886
+Wal-Mart,RI,True,650 BALD HILL RD,True,False,"Warwick,",(401) 821-1766,02886
+Best Buy,RI,True,24 Universal Blvd,True,False,"Warwick,",(401) 826-7007,02886
+Target,RI,True,400 Bald Hill Rd,True,False,"Warwick,",(401) 244-1972,02886
+Screen MD Plus,RI,True,19 Washington Street,True,False,"West Warwick,",(401) 828-0851,02893
+Smartphone Wireless,MA,True,1439 South Main St,True,False,"Fall River,",(508) 567-3917,02724
+Wal-Mart,MA,True,638 Quequechan Street,True,False,"Fall River,",(508) 730-2677,02721
+NCS Wireless LLC,MA,True,502 S Main St,True,False,"Fall River,",(508) 675-4841,02721
+Kmart,MA,True,Rte 81 24 Canning Blvd,True,False,"Fall River,",(508) 679-2111,02721
+Wal-Mart,RI,True,650 CENTRE OF NEW ENGLAND BLVD,True,False,"Coventry,",(401) 823-7780,02816
+Lifetime Communications,MA,True,1332 Pleasant St,True,False,"Fall River,",(508) 676-2355,02723
+Wal-Mart,RI,True,1776 PLAINFIELD PIKE,True,False,"Cranston,",(401) 946-2030,02921
+Wal-Mart,MA,True,54 Cousineau Drive,True,False,"Swansea,",(508) 677-3775,02777
+Advanced Mobile Solutions,RI,True,616 George Washington Hwy,True,True,"Lincoln,",(401) 335-3600,02865
+Wal-Mart,RI,True,7 Dowling Village Blvd,True,False,"North Smithfield,",(401) 766-1961,02896
+Preferred Wireless Consultants,RI,True,704 Broadway,True,False,"Pawtucket,",(401) 475-0943,02860
+Nation Cellnet,RI,True,363 Smithfield Avenue,True,False,"Pawtucket,",(401) 305-7655,02860
+PC-Tech,RI,True,901 Main St,True,False,"Pawtucket,",(401) 475-4775,02860
+Telebeepers Dexter,RI,True,21 Dexter St,True,False,"Pawtucket,",(401) 727-0060,02860
+Prime Time EP,RI,True,912 Broadway,True,False,"East Providence,",(401) 435-8050,02914
+Wal-Mart,CT,True,450 PROVIDENCE ROAD,True,False,"Brooklyn,",(860) 412-5137,06234
+Migz Wireless Central Falls,RI,True,747 Broad St,True,False,"Central Falls,",(401) 475-6944,02863
+Wal-Mart,RI,True,1031 Ten Rod Rd,True,False,"North Kingstown,",(401) 294-0025,02852
+Lauritas Video & Varieties,RI,True,881 Broad Street,True,False,"Central Falls,",(401) 722-5454,02863
+The Electronics Market Inc.,RI,True,582 Dexter St,True,False,"Central Falls,",(401) 305-3303,02863
+Amazing Mobile,RI,True,1096 Social St,True,False,"Woonsocket,",(401) 597-0566,02895
+Best Services JC Inc,RI,True,232 Broad Street,True,False,"Cumberland,",(401) 729-6074,02864
+Wal-Mart,MA,True,1180 Fall River Ave,True,False,"Seekonk,",(508) 336-0290,02771
+Primetime,RI,True,1380 Broad St,True,False,"Providence,",(401) 572-3029,02905
+Sprint at RadioShack Store,RI,True,232 GARFIELD AVE,True,False,"Cranston,",(401) 537-2400,02920
+Target,MA,True,579 Gar Hwy Ste 5,True,False,"Swansea,",(774) 488-3684,02777
+Expert Wireless RI,RI,True,510 Prairie Ave,True,False,"Providence,",(401) 285-6050,02905
+Kmart,RI,True,296 Garfield Avenue,True,False,"Cranston,",(401) 946-3400,02920
+JR Electronics,RI,True,516 Cranston Street,True,False,"Providence,",(401) 453-5300,02907
+Primetime,RI,True,748 Cranston St,True,False,"Providence,",(401) 443-2619,02907
+Providence Multiservice,RI,True,1188 Elmwood Ave,True,False,"Providence,",(401) 837-2626,02907
+Primetime Providence,RI,True,500 Broad St,True,False,"Providence,",(401) 272-7022,02907
+New Wireless 2 Inc.,RI,True,1087 Park Ave,True,False,"Woonsocket,",(401) 356-0004,02895
+Target,MA,True,79 Commerce Way,True,False,"Seekonk,",(508) 336-1117,02771
+Best Buy,MA,True,41 Commerce Way,True,False,"Seekonk,",(508) 336-1391,02771
+401 Wireless,RI,True,118 Main Street,True,False,"Woonsocket,",(401) 356-4811,02895
+North Main Wireless,RI,True,69 North Main St,True,False,"Woonsocket,",(401) 765-0715,02895
+Target,CT,True,195 River Road,True,False,"Jewett City,",(860) 823-2960,06351
+Wal-Mart,NH,True,85 State Route 101A,True,False,"Amherst,",(603) 672-3421,03031
+Wal-Mart,NH,True,17 COLBY CT,True,False,"Bedford,",(603) 626-6733,03110
+Target,NH,True,220 S River Rd,True,False,"Bedford,",(603) 263-0061,03110
+Target,NH,True,600 Amherst St,True,False,"Nashua,",(603) 324-0039,03063
+Wal-Mart,NH,True,725 Gold St,True,False,"Manchester,",(603) 621-9666,03103
+Best Market,NH,True,61 Maple St,True,False,"Manchester,",(603) 867-6539,03103
+Best Buy,NH,True,1500 S Willow St,True,False,"Manchester,",(603) 622-0804,03103
+Infinity Communication,NH,True,1279 Elm St.,True,False,"Manchester,",(603) 935-9658,03101
+Infinity Communications,NH,True,168 Amory Street,True,False,"Manchester,",(603) 518-8487,03102
+Best Buy,NH,True,220 Daniel Webster Hwy,True,False,"Nashua,",(603) 891-4900,03062
+Best Buy,NH,True,310 Daniel Webster Highway,True,False,"Nashua,",(603) 888-5414,03060
+Wal-Mart,NH,True,254 Lowell Rd,True,False,"Hudson,",(603) 598-4226,03051
+Target,NH,True,310 Daniel Webster Highway,True,False,"Nashua,",(603) 891-4858,03060
+Infinity Communication,NH,True,87 Main St.,True,False,"Nashua,",(603) 402-9904,03060
+Nashua Multi Services,NH,True,16 Kinsley st,True,False,"Nashua,",(603) 943-3153,03060
+Target,NH,True,100 Quality Dr,True,False,"Hooksett,",(603) 621-1451,03106
+Wal-Mart,NH,True,3 Commerce Dr,True,False,"Hooksett,",(603) 644-8144,03106
+Kmart,NH,True,1267 Hooksett Rd,True,False,"Hooksett,",(603) 625-5741,03106
+Infinity Communications,NH,True,168 Amory Street,True,False,"Manchester,",(603) 518-8487,03102
+Infinity Communication,NH,True,1279 Elm St.,True,False,"Manchester,",(603) 935-9658,03101
+Wal-Mart,NH,True,11 Ashleigh Drive,True,False,"Derry,",(603) 434-3589,03038
+Wal-Mart,NH,True,35 FRESH RIVER RD,True,False,"Epping,",(603) 679-5919,03042
+Wal-Mart,NH,True,725 Gold St,True,False,"Manchester,",(603) 621-9666,03103
+Best Market,NH,True,61 Maple St,True,False,"Manchester,",(603) 867-6539,03103
+Best Buy,NH,True,1500 S Willow St,True,False,"Manchester,",(603) 622-0804,03103
+Target,NH,True,220 S River Rd,True,False,"Bedford,",(603) 263-0061,03110
+Wal-Mart,NH,True,17 COLBY CT,True,False,"Bedford,",(603) 626-6733,03110
+Best Buy,NH,True,78 Damante Dr,True,False,"Concord,",(603) 227-0826,03301
+Target,NH,True,80 Damante Dr,True,False,"Concord,",(603) 227-0809,03301
+Wal-Mart,NH,True,344 Loudon Rd,True,False,"Concord,",(603) 226-9312,03301
+Wal-Mart,NH,True,3 Commerce Dr,True,False,"Hooksett,",(603) 644-8144,03106
+Kmart,NH,True,1267 Hooksett Rd,True,False,"Hooksett,",(603) 625-5741,03106
+Wal-Mart,NH,True,11 Ashleigh Drive,True,False,"Derry,",(603) 434-3589,03038
+Target,NH,True,100 Quality Dr,True,False,"Hooksett,",(603) 621-1451,03106
+Wal-Mart,NH,True,58 PLAISTOW RD,True,False,"Plaistow,",(603) 382-2839,03865
+Best Buy,NH,True,290 S Broadway Unit E,True,False,"Salem,",(603) 890-9002,03079
+Target,NH,True,203-219 South Broadway,True,False,"Salem,",(603) 870-0071,03079
+Wal-Mart,NH,True,326 N Broadway,True,False,"Salem,",(603) 894-5642,03079
+Wal-Mart,NH,True,85 State Route 101A,True,False,"Amherst,",(603) 672-3421,03031
+Kmart,NH,True,161 S Broadway,True,False,"Salem,",(603) 893-6181,03079
+Best Buy,NH,True,78 Damante Dr,True,False,"Concord,",(603) 227-0826,03301
+Wal-Mart,NH,True,344 Loudon Rd,True,False,"Concord,",(603) 226-9312,03301
+Target,NH,True,80 Damante Dr,True,False,"Concord,",(603) 227-0809,03301
+Performance Wireless Solution,NH,True,54 South Main St,True,False,"Rochester,",(603) 294-9976,03867
+Kmart,NH,True,21 Lilac Mall,True,False,"Rochester,",(603) 332-2430,03867
+Wal-Mart,NH,True,116 FARMINGTON RD,True,False,"Rochester,",(603) 332-4300,03867
+Best Buy,NH,True,99 ROCKINGHAM PARK BLVD E127B,True,False,"Rochester,",(603) 896-6128,03867
+Target,NH,True,80 Damante Dr,True,False,"Concord,",(603) 227-0809,03301
+Best Buy,NH,True,78 Damante Dr,True,False,"Concord,",(603) 227-0826,03301
+Wal-Mart,NH,True,344 Loudon Rd,True,False,"Concord,",(603) 226-9312,03301
+Target,NH,True,46 Ash Brook Rd,True,False,"Keene,",(603) 354-2151,03431
+Target,NH,True,46 Ash Brook Rd,True,False,"Keene,",(603) 354-2151,03431
+Best Buy,NH,True,274 Plainfield Rd,True,False,"West Lebanon,",(603) 298-7353,03784
+Best Buy,NH,True,45 Gosling Rd,True,False,"Portsmouth,",(603) 431-1269,03801
+Wal-Mart,NH,True,2200 WOODBURY AVE,True,False,"Portsmouth,",(603) 430-9985,03801
+Wal-Mart,NH,True,2460 Lafayette Rd,True,False,"Portsmouth,",(603) 433-6008,03801
+Target,NH,True,1450 Greenland Rd,True,False,"Greenland,",not found,03840
+Seacoast Cellular,NH,True,42 Lafayette Rd,True,True,"North Hampton,",(603) 964-8964,03862
+My Mobile,NH,True,1 Main Street,True,False,"Dover,",(603) 742-5200,03820
+Wal-Mart,NH,True,700 Lafayette Road Unit 1,True,False,"Seabrook,",(603) 474-2037,03874
+Wal-Mart,NH,True,59 Waltons Way,True,False,"Somersworth,",(603) 692-6346,03878
+Wal-Mart,NH,True,35 FRESH RIVER RD,True,False,"Epping,",(603) 679-5919,03042
+Max Cellular NH LLC,NH,True,563 Lafayette,True,False,"Seabrook,",(603) 814-4194,03874
+Target,NH,True,11 Andrews Rd,True,False,"Somersworth,",(603) 692-6750,03878
+Kmart,MA,True,45 Storey Ave,True,False,"Newburyport,",(978) 462-8521,01950
+Preferred Wireless Consultants,ME,True,484 Congress St,True,False,"Portland,",(202) 747-5719,04101
+REPUBLICASH LLC,ME,True,1124 Brighton Ave,True,False,"Portland,",(207) 774-7680,04102
+Target,ME,True,125 Topsham Fair Mall Rd,True,False,"Topsham,",(207) 504-5050,04086
+Broadway Variety,ME,True,771 Broadway,True,False,"South Portland,",(207) 767-2577,04106
+REPUBLICASH LLC,ME,True,682 Main Street,True,False,"South Portland,",(207) 899-0260,04106
+Target,ME,True,200 Running Hill Rd,True,False,"South Portland,",(207) 871-1156,04106
+Best Buy,ME,True,364 Maine Mall Rd Box 301,True,False,"South Portland,",(207) 791-8800,04106
+REPUBLICASH LLC,ME,True,364 Elm St,True,False,"Biddeford,",(207) 282-1678,04005
+Wal-Mart,ME,True,50 Boulder Way,True,False,"Biddeford,",(207) 286-9551,04005
+Target,ME,True,585 Alfred Rd Rte 111,True,False,"Biddeford,",(207) 284-2510,04005
+Wal-Mart,ME,True,500 Gallery Blvd,True,False,"Scarborough,",(207) 885-5567,04074
+Broadway Variety,ME,True,771 Broadway,True,False,"South Portland,",(207) 767-2577,04106
+Target,ME,True,200 Running Hill Rd,True,False,"South Portland,",(207) 871-1156,04106
+REPUBLICASH LLC,ME,True,1124 Brighton Ave,True,False,"Portland,",(207) 774-7680,04102
+Best Buy,ME,True,364 Maine Mall Rd Box 301,True,False,"South Portland,",(207) 791-8800,04106
+REPUBLICASH LLC,ME,True,682 Main Street,True,False,"South Portland,",(207) 899-0260,04106
+Preferred Wireless Consultants,ME,True,484 Congress St,True,False,"Portland,",(202) 747-5719,04101
+RepubliCash Windham,ME,True,726 Roosevelt Trail,True,False,"Windham,",(207) 893-0005,04062
+RepubliCash SANFORD,ME,True,789 Main St,True,False,"Sanford,",(207) 850-1025,04073
+Wal-Mart,ME,True,1930 Main St,True,False,"Sanford,",(207) 490-1988,04073
+Target,ME,True,125 Topsham Fair Mall Rd,True,False,"Topsham,",(207) 504-5050,04086
+MC Cellular,ME,True,236 Main St,True,False,"Lewiston,",(207) 241-0216,04240
+Wal-Mart,ME,True,100 Mount Auburn Ave,True,False,"Auburn,",(207) 784-0738,04210
+Best Buy,ME,True,649 Turner St,True,False,"Auburn,",(207) 795-8810,04210
+RepubliCash Windham,ME,True,726 Roosevelt Trail,True,False,"Windham,",(207) 893-0005,04062
+Wal-Mart,ME,True,100 Mount Auburn Ave,True,False,"Auburn,",(207) 784-0738,04210
+Best Buy,ME,True,649 Turner St,True,False,"Auburn,",(207) 795-8810,04210
+MC Cellular,ME,True,236 Main St,True,False,"Lewiston,",(207) 241-0216,04240
+RepubliCash SANFORD,ME,True,789 Main St,True,False,"Sanford,",(207) 850-1025,04073
+Wal-Mart,ME,True,1930 Main St,True,False,"Sanford,",(207) 490-1988,04073
+REPUBLICASH LLC,ME,True,364 Elm St,True,False,"Biddeford,",(207) 282-1678,04005
+Target,ME,True,585 Alfred Rd Rte 111,True,False,"Biddeford,",(207) 284-2510,04005
+Wal-Mart,ME,True,50 Boulder Way,True,False,"Biddeford,",(207) 286-9551,04005
+Target,NH,True,11 Andrews Rd,True,False,"Somersworth,",(603) 692-6750,03878
+Wal-Mart,NH,True,59 Waltons Way,True,False,"Somersworth,",(603) 692-6346,03878
+My Mobile,NH,True,1 Main Street,True,False,"Dover,",(603) 742-5200,03820
+Wal-Mart,ME,True,100 Mount Auburn Ave,True,False,"Auburn,",(207) 784-0738,04210
+Best Buy,ME,True,649 Turner St,True,False,"Auburn,",(207) 795-8810,04210
+MC Cellular,ME,True,236 Main St,True,False,"Lewiston,",(207) 241-0216,04240
+Target,ME,True,125 Topsham Fair Mall Rd,True,False,"Topsham,",(207) 504-5050,04086
+Target,ME,True,119 Crossing Way,True,False,"Augusta,",(207) 622-8000,04330
+Wal-Mart,ME,True,201 Civic Center Dr,True,False,"Augusta,",(207) 623-8223,04330
+Best Buy,ME,True,14 CROSSING WAY,True,False,"Augusta,",(207) 626-3510,04330
+Wal-Mart,ME,True,80 Waterville Commons Dr,True,False,"Waterville,",(207) 877-8774,04901
+Wal-Mart,ME,True,900 Stillwater Ave,True,False,"Bangor,",(207) 947-5254,04401
+Target,ME,True,60 Longview Dr,True,False,"Bangor,",(207) 945-3133,04401
+Best Buy,ME,True,45 BANGOR MALL BLVD,True,False,"Bangor,",(207) 942-3434,04401
+Wal-Mart,ME,True,24 Walton Dr,True,False,"Brewer,",(207) 989-5068,04412
+Best Buy,ME,True,45 BANGOR MALL BLVD,True,False,"Bangor,",(207) 942-3434,04401
+Wal-Mart,ME,True,900 Stillwater Ave,True,False,"Bangor,",(207) 947-5254,04401
+Target,ME,True,60 Longview Dr,True,False,"Bangor,",(207) 945-3133,04401
